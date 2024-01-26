@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "pageBody": "<h1>Gallery</h1><p>Step into our Electrician Showcase Gallery, where we illuminate the artistry and functionality of electrical work for both home and warehouse settings. Explore a curated collection of meticulously executed projects showcasing innovative lighting designs, efficient wiring solutions, and robust electrical systems tailored for residential and industrial spaces alike. From stylish and energy-efficient home lighting installations to intricate warehouse electrical layouts ensuring optimal functionality and safety, our gallery is a testament to our expertise in addressing diverse electrical needs. Whether you're seeking inspiration for your dream home or solutions for your warehouse, our showcase offers a captivating glimpse into the seamless integration of form and function in electrical engineering.</p>",
+            "title": "Gallery",
+            "createdAt": "2023-01-05T17:42:02.184Z",
+            "updatedAt": "2023-03-17T00:26:46.211Z",
+            "publishedAt": "2023-01-05T17:42:04.865Z"
+        }
+    },
+    "meta": {}
+}

@@ -1,0 +1,2863 @@
+{
+    "data": {
+        "id": 4,
+        "attributes": {
+            "bedrooms": 3,
+            "halfBathrooms": 0,
+            "squareFeet": 1520,
+            "createdAt": "2023-03-14T16:04:50.883Z",
+            "updatedAt": "2023-03-16T02:55:25.335Z",
+            "publishedAt": "2023-03-14T16:07:15.269Z",
+            "fullBathrooms": 2,
+            "title": "1,520 SF Open Ranch Plan with Large Covered Back Porch",
+            "description": "<p>Also available as a 1,750 SF plan with 2-½ car garage and sun room.&nbsp;</p>",
+            "virtualTourLink": null,
+            "thumbnail": {
+                "data": {
+                    "id": 31,
+                    "attributes": {
+                        "name": "IMG_1450.JPG",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 5184,
+                        "height": 3456,
+                        "formats": {
+                            "large": {
+                                "ext": ".JPG",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1450.JPG-1f2eaae805fdaab740421b4a4fcd97b3.JPG",
+                                "hash": "1f2eaae805fdaab740421b4a4fcd97b3",
+                                "mime": "image/jpeg",
+                                "name": "large_IMG_1450.JPG",
+                                "path": null,
+                                "size": 93.01,
+                                "width": 1000,
+                                "height": 667
+                            },
+                            "small": {
+                                "ext": ".JPG",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1450.JPG-8c3efa7fe6972fc9b577f83b63dd8d0c.JPG",
+                                "hash": "8c3efa7fe6972fc9b577f83b63dd8d0c",
+                                "mime": "image/jpeg",
+                                "name": "small_IMG_1450.JPG",
+                                "path": null,
+                                "size": 27.25,
+                                "width": 500,
+                                "height": 333
+                            },
+                            "medium": {
+                                "ext": ".JPG",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1450.JPG-bde0d742c24b7e74113c4f401ed100a5.JPG",
+                                "hash": "bde0d742c24b7e74113c4f401ed100a5",
+                                "mime": "image/jpeg",
+                                "name": "medium_IMG_1450.JPG",
+                                "path": null,
+                                "size": 56.82,
+                                "width": 750,
+                                "height": 500
+                            },
+                            "xlarge": {
+                                "ext": ".JPG",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1450.JPG-56cf2f9795ee8186c6121de9c8bab24e.JPG",
+                                "hash": "56cf2f9795ee8186c6121de9c8bab24e",
+                                "mime": "image/jpeg",
+                                "name": "xlarge_IMG_1450.JPG",
+                                "path": null,
+                                "size": 292.18,
+                                "width": 1920,
+                                "height": 1280
+                            },
+                            "xsmall": {
+                                "ext": ".JPG",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1450.JPG-67b2cc482979667acf8e0be7a5c49160.JPG",
+                                "hash": "67b2cc482979667acf8e0be7a5c49160",
+                                "mime": "image/jpeg",
+                                "name": "xsmall_IMG_1450.JPG",
+                                "path": null,
+                                "size": 1.17,
+                                "width": 64,
+                                "height": 43
+                            },
+                            "thumbnail": {
+                                "ext": ".JPG",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1450.JPG-56c479f1efa759ca732fcbed7a646bb3.JPG",
+                                "hash": "56c479f1efa759ca732fcbed7a646bb3",
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_IMG_1450.JPG",
+                                "path": null,
+                                "size": 7.72,
+                                "width": 234,
+                                "height": 156
+                            }
+                        },
+                        "hash": "0d72a4b3f27231f9236b80a9d5cfce12",
+                        "ext": ".JPG",
+                        "mime": "image/jpeg",
+                        "size": 1506.05,
+                        "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1450.JPG-0d72a4b3f27231f9236b80a9d5cfce12.JPG",
+                        "previewUrl": null,
+                        "provider": "strapi-provider-upload-supabase",
+                        "provider_metadata": null,
+                        "createdAt": "2023-03-14T16:02:56.172Z",
+                        "updatedAt": "2023-03-14T16:04:46.573Z"
+                    }
+                }
+            },
+            "photos": {
+                "data": [
+                    {
+                        "id": 59,
+                        "attributes": {
+                            "name": "IMG_1384.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1384.JPG-cf4062f58e4726221b6c46c83b245c0b.JPG",
+                                    "hash": "cf4062f58e4726221b6c46c83b245c0b",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_1384.JPG",
+                                    "path": null,
+                                    "size": 54.32,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1384.JPG-2e6cd09fc231be89a8366e808a50b989.JPG",
+                                    "hash": "2e6cd09fc231be89a8366e808a50b989",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_1384.JPG",
+                                    "path": null,
+                                    "size": 15.45,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1384.JPG-bbb6ea11decfc66dcdf37868e4241307.JPG",
+                                    "hash": "bbb6ea11decfc66dcdf37868e4241307",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_1384.JPG",
+                                    "path": null,
+                                    "size": 31.59,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1384.JPG-251e1b734a61d3fc4ba93b33ad60be01.JPG",
+                                    "hash": "251e1b734a61d3fc4ba93b33ad60be01",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_1384.JPG",
+                                    "path": null,
+                                    "size": 220.02,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1384.JPG-87e55252d81080dd671a2115dc589b59.JPG",
+                                    "hash": "87e55252d81080dd671a2115dc589b59",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_1384.JPG",
+                                    "path": null,
+                                    "size": 0.95,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1384.JPG-f789c4c2ea587ddfbbe08c71cfc1f4ad.JPG",
+                                    "hash": "f789c4c2ea587ddfbbe08c71cfc1f4ad",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_1384.JPG",
+                                    "path": null,
+                                    "size": 5,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "0254163e77b13cc7c03fd26180057172",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 1747.65,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1384.JPG-0254163e77b13cc7c03fd26180057172.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:20:16.833Z",
+                            "updatedAt": "2023-03-16T02:20:16.833Z"
+                        }
+                    },
+                    {
+                        "id": 63,
+                        "attributes": {
+                            "name": "IMG_1399.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1399 - Copy.JPG-300cf3ee2e2cfb760599f9db052995da.JPG",
+                                    "hash": "300cf3ee2e2cfb760599f9db052995da",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_1399 - Copy.JPG",
+                                    "path": null,
+                                    "size": 73.03,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1399 - Copy.JPG-b287c61e73015212197c32a4adb83fa0.JPG",
+                                    "hash": "b287c61e73015212197c32a4adb83fa0",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_1399 - Copy.JPG",
+                                    "path": null,
+                                    "size": 21.76,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1399 - Copy.JPG-6fcb93c636ad7e6922e07d625ebd6369.JPG",
+                                    "hash": "6fcb93c636ad7e6922e07d625ebd6369",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_1399 - Copy.JPG",
+                                    "path": null,
+                                    "size": 43.59,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1399 - Copy.JPG-e41f535b539372f7c3246cf73ac96bbf.JPG",
+                                    "hash": "e41f535b539372f7c3246cf73ac96bbf",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_1399 - Copy.JPG",
+                                    "path": null,
+                                    "size": 274.68,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1399 - Copy.JPG-da1765c8ac88c67b173dde86cfd3891d.JPG",
+                                    "hash": "da1765c8ac88c67b173dde86cfd3891d",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_1399 - Copy.JPG",
+                                    "path": null,
+                                    "size": 1.29,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1399 - Copy.JPG-fcfb343365199cddc9c7a65f012b692a.JPG",
+                                    "hash": "fcfb343365199cddc9c7a65f012b692a",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_1399 - Copy.JPG",
+                                    "path": null,
+                                    "size": 6.9,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "5517cd5e7cc927d23917b541221164e4",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2038.01,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1399 - Copy.JPG-5517cd5e7cc927d23917b541221164e4.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:20:28.624Z",
+                            "updatedAt": "2023-03-16T03:36:14.869Z"
+                        }
+                    },
+                    {
+                        "id": 64,
+                        "attributes": {
+                            "name": "IMG_1376.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1376.JPG-3f8d3dac6382caefead312080fe58f1f.JPG",
+                                    "hash": "3f8d3dac6382caefead312080fe58f1f",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_1376.JPG",
+                                    "path": null,
+                                    "size": 64.3,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1376.JPG-f9e0005e4abf1f79cec882a7f4f5a79b.JPG",
+                                    "hash": "f9e0005e4abf1f79cec882a7f4f5a79b",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_1376.JPG",
+                                    "path": null,
+                                    "size": 16.71,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1376.JPG-5e31d8227443a8b5095b305ce4ae140d.JPG",
+                                    "hash": "5e31d8227443a8b5095b305ce4ae140d",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_1376.JPG",
+                                    "path": null,
+                                    "size": 36.11,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1376.JPG-1f53c4fcafbaf43e0e97b4faa864ccc5.JPG",
+                                    "hash": "1f53c4fcafbaf43e0e97b4faa864ccc5",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_1376.JPG",
+                                    "path": null,
+                                    "size": 269.89,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1376.JPG-6049df04cc0c9ca58385148da6fd8ec6.JPG",
+                                    "hash": "6049df04cc0c9ca58385148da6fd8ec6",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_1376.JPG",
+                                    "path": null,
+                                    "size": 1.06,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1376.JPG-6e1e55214d9e23bbbf57641d15e1edb4.JPG",
+                                    "hash": "6e1e55214d9e23bbbf57641d15e1edb4",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_1376.JPG",
+                                    "path": null,
+                                    "size": 5.04,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "6e5fa0fa118dcc947447d7043acb452b",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2086.88,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1376.JPG-6e5fa0fa118dcc947447d7043acb452b.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:20:28.710Z",
+                            "updatedAt": "2023-03-16T02:20:28.710Z"
+                        }
+                    },
+                    {
+                        "id": 60,
+                        "attributes": {
+                            "name": "IMG_1396.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1396.JPG-c5e63d0e020bbe6ae00eb17955fdb371.JPG",
+                                    "hash": "c5e63d0e020bbe6ae00eb17955fdb371",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_1396.JPG",
+                                    "path": null,
+                                    "size": 87.3,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1396.JPG-bb3581407f0cec22a9fa6de73527ac91.JPG",
+                                    "hash": "bb3581407f0cec22a9fa6de73527ac91",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_1396.JPG",
+                                    "path": null,
+                                    "size": 25.66,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1396.JPG-11b1cfc2c68a5ff3d915b7f54cb6a3a9.JPG",
+                                    "hash": "11b1cfc2c68a5ff3d915b7f54cb6a3a9",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_1396.JPG",
+                                    "path": null,
+                                    "size": 52.64,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1396.JPG-d48986111e4574594a3d05dde527b964.JPG",
+                                    "hash": "d48986111e4574594a3d05dde527b964",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_1396.JPG",
+                                    "path": null,
+                                    "size": 300.49,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1396.JPG-abf5700278031a547575fadb4dca9b9f.JPG",
+                                    "hash": "abf5700278031a547575fadb4dca9b9f",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_1396.JPG",
+                                    "path": null,
+                                    "size": 1.23,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1396.JPG-d865c067954e8c2c0ac0fd4f7b7c1588.JPG",
+                                    "hash": "d865c067954e8c2c0ac0fd4f7b7c1588",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_1396.JPG",
+                                    "path": null,
+                                    "size": 7.62,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "8bb19853307f57567d531ce6437b4541",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 1998.6,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1396.JPG-8bb19853307f57567d531ce6437b4541.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:20:19.570Z",
+                            "updatedAt": "2023-03-16T02:20:19.570Z"
+                        }
+                    },
+                    {
+                        "id": 62,
+                        "attributes": {
+                            "name": "IMG_1398.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1398.JPG-b744456cff49977e3a9a248368e20a7b.JPG",
+                                    "hash": "b744456cff49977e3a9a248368e20a7b",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_1398.JPG",
+                                    "path": null,
+                                    "size": 71.16,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1398.JPG-f948cea0dc72c4517dfe80e19919f4d7.JPG",
+                                    "hash": "f948cea0dc72c4517dfe80e19919f4d7",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_1398.JPG",
+                                    "path": null,
+                                    "size": 20.92,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1398.JPG-8133dc1caecf88f51d669830cc9a2695.JPG",
+                                    "hash": "8133dc1caecf88f51d669830cc9a2695",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_1398.JPG",
+                                    "path": null,
+                                    "size": 42.39,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1398.JPG-8e9b24a6741dd76a807ff4023c353e10.JPG",
+                                    "hash": "8e9b24a6741dd76a807ff4023c353e10",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_1398.JPG",
+                                    "path": null,
+                                    "size": 271.85,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1398.JPG-610772d8a45c29ff47cfd9f10177cf1c.JPG",
+                                    "hash": "610772d8a45c29ff47cfd9f10177cf1c",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_1398.JPG",
+                                    "path": null,
+                                    "size": 1.15,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1398.JPG-8aa890b3d730c988eb54a87da59b50e0.JPG",
+                                    "hash": "8aa890b3d730c988eb54a87da59b50e0",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_1398.JPG",
+                                    "path": null,
+                                    "size": 6.7,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "8d0989f0fca5713f06de9f44babde533",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2043.22,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1398.JPG-8d0989f0fca5713f06de9f44babde533.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:20:22.513Z",
+                            "updatedAt": "2023-03-16T02:20:22.513Z"
+                        }
+                    },
+                    {
+                        "id": 65,
+                        "attributes": {
+                            "name": "IMG_1363.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1363.JPG-19dab235016a7713b684e3e4cd9aa3f8.JPG",
+                                    "hash": "19dab235016a7713b684e3e4cd9aa3f8",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_1363.JPG",
+                                    "path": null,
+                                    "size": 82.03,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1363.JPG-162f10b4e9f9dcb61d89ba22bdb16073.JPG",
+                                    "hash": "162f10b4e9f9dcb61d89ba22bdb16073",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_1363.JPG",
+                                    "path": null,
+                                    "size": 23.48,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1363.JPG-a3af02c8bc1ba88f04da6ac95dc3ddb3.JPG",
+                                    "hash": "a3af02c8bc1ba88f04da6ac95dc3ddb3",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_1363.JPG",
+                                    "path": null,
+                                    "size": 48.4,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1363.JPG-f6fe60e305cae285839f6461c8f64063.JPG",
+                                    "hash": "f6fe60e305cae285839f6461c8f64063",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_1363.JPG",
+                                    "path": null,
+                                    "size": 312.77,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1363.JPG-7784063801bada51e0af0a0f33768c1c.JPG",
+                                    "hash": "7784063801bada51e0af0a0f33768c1c",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_1363.JPG",
+                                    "path": null,
+                                    "size": 1.15,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1363.JPG-834fcc9b269e290f4afc5f3187628b65.JPG",
+                                    "hash": "834fcc9b269e290f4afc5f3187628b65",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_1363.JPG",
+                                    "path": null,
+                                    "size": 6.99,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "e492eac1eea5b39a0e16e7a443bc0113",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2277.39,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1363.JPG-e492eac1eea5b39a0e16e7a443bc0113.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:20:38.655Z",
+                            "updatedAt": "2023-03-16T02:20:38.655Z"
+                        }
+                    },
+                    {
+                        "id": 66,
+                        "attributes": {
+                            "name": "IMG_1359.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1359.JPG-caf8cf5a899991bc56520eac71b89a8d.JPG",
+                                    "hash": "caf8cf5a899991bc56520eac71b89a8d",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_1359.JPG",
+                                    "path": null,
+                                    "size": 75.2,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1359.JPG-075b6431ca872cff8be07fa236591176.JPG",
+                                    "hash": "075b6431ca872cff8be07fa236591176",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_1359.JPG",
+                                    "path": null,
+                                    "size": 19.93,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1359.JPG-f340935f147cb5a1d12dcdf05899d1ab.JPG",
+                                    "hash": "f340935f147cb5a1d12dcdf05899d1ab",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_1359.JPG",
+                                    "path": null,
+                                    "size": 42.77,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1359.JPG-3d24e625cb5f33a03a383710f27a88db.JPG",
+                                    "hash": "3d24e625cb5f33a03a383710f27a88db",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_1359.JPG",
+                                    "path": null,
+                                    "size": 310.95,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1359.JPG-ca2cd5cf84d1e0eace6734511dbbdc3f.JPG",
+                                    "hash": "ca2cd5cf84d1e0eace6734511dbbdc3f",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_1359.JPG",
+                                    "path": null,
+                                    "size": 1.06,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1359.JPG-ff973e9725aeb8beae7868e116c190e3.JPG",
+                                    "hash": "ff973e9725aeb8beae7868e116c190e3",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_1359.JPG",
+                                    "path": null,
+                                    "size": 5.93,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "502fa02173949b53d4739a80364e332e",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2371.41,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1359.JPG-502fa02173949b53d4739a80364e332e.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:20:41.338Z",
+                            "updatedAt": "2023-03-16T02:20:41.338Z"
+                        }
+                    },
+                    {
+                        "id": 92,
+                        "attributes": {
+                            "name": "IMG_4979.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_4979.JPG-8f3839d8825c520366b96f73a61f51e2.JPG",
+                                    "hash": "8f3839d8825c520366b96f73a61f51e2",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_4979.JPG",
+                                    "path": null,
+                                    "size": 53.61,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_4979.JPG-4d4ee95c9e08215707942bf58a4ad33b.JPG",
+                                    "hash": "4d4ee95c9e08215707942bf58a4ad33b",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_4979.JPG",
+                                    "path": null,
+                                    "size": 13.36,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_4979.JPG-c3f30964ce6194b5f1f60a73fb339e92.JPG",
+                                    "hash": "c3f30964ce6194b5f1f60a73fb339e92",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_4979.JPG",
+                                    "path": null,
+                                    "size": 29.43,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_4979.JPG-f3e5ddea56c92b9a77f3184542ff2770.JPG",
+                                    "hash": "f3e5ddea56c92b9a77f3184542ff2770",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_4979.JPG",
+                                    "path": null,
+                                    "size": 240.5,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_4979.JPG-cca5692885458b1a6c8cfc3c3bd2278d.JPG",
+                                    "hash": "cca5692885458b1a6c8cfc3c3bd2278d",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_4979.JPG",
+                                    "path": null,
+                                    "size": 0.88,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_4979.JPG-0e0e127d3d51594f4f96b9aa77079ab6.JPG",
+                                    "hash": "0e0e127d3d51594f4f96b9aa77079ab6",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_4979.JPG",
+                                    "path": null,
+                                    "size": 4.14,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "83a2a3f96149db45b2656e9a6a6b8eb4",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2024.7,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_4979.JPG-83a2a3f96149db45b2656e9a6a6b8eb4.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:45:14.184Z",
+                            "updatedAt": "2023-03-16T02:45:14.184Z"
+                        }
+                    },
+                    {
+                        "id": 91,
+                        "attributes": {
+                            "name": "IMG_4978.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_4978.JPG-7a2dfe0ef5c21efaf2a5d82f1e4d6ac4.JPG",
+                                    "hash": "7a2dfe0ef5c21efaf2a5d82f1e4d6ac4",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_4978.JPG",
+                                    "path": null,
+                                    "size": 52.43,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_4978.JPG-0f80bbf57ad3365cbde21be3e2982c3a.JPG",
+                                    "hash": "0f80bbf57ad3365cbde21be3e2982c3a",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_4978.JPG",
+                                    "path": null,
+                                    "size": 12.77,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_4978.JPG-e84dc438f7ed3640db9546b1becb33c4.JPG",
+                                    "hash": "e84dc438f7ed3640db9546b1becb33c4",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_4978.JPG",
+                                    "path": null,
+                                    "size": 28.36,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_4978.JPG-3bbabe0745be67aae3a2f13e3f8af35d.JPG",
+                                    "hash": "3bbabe0745be67aae3a2f13e3f8af35d",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_4978.JPG",
+                                    "path": null,
+                                    "size": 235.08,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_4978.JPG-eea519dda793eac7cf9d931a83cb0480.JPG",
+                                    "hash": "eea519dda793eac7cf9d931a83cb0480",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_4978.JPG",
+                                    "path": null,
+                                    "size": 0.85,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_4978.JPG-6dd766b78a51648e7776f79a5fb165a8.JPG",
+                                    "hash": "6dd766b78a51648e7776f79a5fb165a8",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_4978.JPG",
+                                    "path": null,
+                                    "size": 3.92,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "9ea2e5c7d7c65c0385d1fe9cdb3263d0",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 1971.84,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_4978.JPG-9ea2e5c7d7c65c0385d1fe9cdb3263d0.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:43:55.098Z",
+                            "updatedAt": "2023-03-16T02:43:55.098Z"
+                        }
+                    },
+                    {
+                        "id": 89,
+                        "attributes": {
+                            "name": "IMG_4953.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_4953.JPG-f83d740eae06e69e8f11f99b059edb17.JPG",
+                                    "hash": "f83d740eae06e69e8f11f99b059edb17",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_4953.JPG",
+                                    "path": null,
+                                    "size": 67.9,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_4953.JPG-153b0bfad50aeac45981ac76a9223b3d.JPG",
+                                    "hash": "153b0bfad50aeac45981ac76a9223b3d",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_4953.JPG",
+                                    "path": null,
+                                    "size": 18.09,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_4953.JPG-47f7621c5d89c5f40632bf1822995350.JPG",
+                                    "hash": "47f7621c5d89c5f40632bf1822995350",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_4953.JPG",
+                                    "path": null,
+                                    "size": 38.53,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_4953.JPG-6277fa6a48ab2a5d2044ac07a193b6a1.JPG",
+                                    "hash": "6277fa6a48ab2a5d2044ac07a193b6a1",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_4953.JPG",
+                                    "path": null,
+                                    "size": 272.71,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_4953.JPG-d717cd36560e2df49c6b6569c69c25ba.JPG",
+                                    "hash": "d717cd36560e2df49c6b6569c69c25ba",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_4953.JPG",
+                                    "path": null,
+                                    "size": 1.02,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_4953.JPG-0e4461a8d6f33fca080f132bb34b44cd.JPG",
+                                    "hash": "0e4461a8d6f33fca080f132bb34b44cd",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_4953.JPG",
+                                    "path": null,
+                                    "size": 5.55,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "4b5886688b0f528c34db0cb6d927b778",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2034.11,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_4953.JPG-4b5886688b0f528c34db0cb6d927b778.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:43:06.558Z",
+                            "updatedAt": "2023-03-16T02:43:06.558Z"
+                        }
+                    },
+                    {
+                        "id": 88,
+                        "attributes": {
+                            "name": "IMG_4941.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_4941.JPG-88ef89f3776ba9fbf7ae760234b8a8ef.JPG",
+                                    "hash": "88ef89f3776ba9fbf7ae760234b8a8ef",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_4941.JPG",
+                                    "path": null,
+                                    "size": 64.78,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_4941.JPG-012ae1eee01f51cce03e3e4d78d70c5e.JPG",
+                                    "hash": "012ae1eee01f51cce03e3e4d78d70c5e",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_4941.JPG",
+                                    "path": null,
+                                    "size": 17.32,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_4941.JPG-333cdc64eb88dce376b58e0b7a216576.JPG",
+                                    "hash": "333cdc64eb88dce376b58e0b7a216576",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_4941.JPG",
+                                    "path": null,
+                                    "size": 36.79,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_4941.JPG-444a265b60d4a1f13c86ac13a82f4dad.JPG",
+                                    "hash": "444a265b60d4a1f13c86ac13a82f4dad",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_4941.JPG",
+                                    "path": null,
+                                    "size": 267.64,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_4941.JPG-43c859e94b5a4d1ef99a063f8ca080fc.JPG",
+                                    "hash": "43c859e94b5a4d1ef99a063f8ca080fc",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_4941.JPG",
+                                    "path": null,
+                                    "size": 1.02,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_4941.JPG-b5f130e81a1e6ba3d31f807eca2be88b.JPG",
+                                    "hash": "b5f130e81a1e6ba3d31f807eca2be88b",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_4941.JPG",
+                                    "path": null,
+                                    "size": 5.39,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "aaa40848410ee2eb2750cb5f65832b6c",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2097.59,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_4941.JPG-aaa40848410ee2eb2750cb5f65832b6c.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:42:49.167Z",
+                            "updatedAt": "2023-03-16T02:42:49.167Z"
+                        }
+                    },
+                    {
+                        "id": 87,
+                        "attributes": {
+                            "name": "IMG_4932.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_4932.JPG-374ef059e3f17add697c5c4b1da4d8e3.JPG",
+                                    "hash": "374ef059e3f17add697c5c4b1da4d8e3",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_4932.JPG",
+                                    "path": null,
+                                    "size": 66.77,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_4932.JPG-3e68f21ac1a23f91bba39022620d68e9.JPG",
+                                    "hash": "3e68f21ac1a23f91bba39022620d68e9",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_4932.JPG",
+                                    "path": null,
+                                    "size": 17.95,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_4932.JPG-51ddb9e632a08adea7030dc19d2a6e19.JPG",
+                                    "hash": "51ddb9e632a08adea7030dc19d2a6e19",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_4932.JPG",
+                                    "path": null,
+                                    "size": 37.61,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_4932.JPG-61c4c98c594ce07f53185ce92490d20a.JPG",
+                                    "hash": "61c4c98c594ce07f53185ce92490d20a",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_4932.JPG",
+                                    "path": null,
+                                    "size": 277.51,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_4932.JPG-0f45269f491d5dfdd46c336b787e7b49.JPG",
+                                    "hash": "0f45269f491d5dfdd46c336b787e7b49",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_4932.JPG",
+                                    "path": null,
+                                    "size": 1.04,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_4932.JPG-286cbf94baf9d553ec45ccdc64808dc7.JPG",
+                                    "hash": "286cbf94baf9d553ec45ccdc64808dc7",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_4932.JPG",
+                                    "path": null,
+                                    "size": 5.53,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "e77a914945f16f319cc348430e2b87f7",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2169.47,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_4932.JPG-e77a914945f16f319cc348430e2b87f7.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:41:49.622Z",
+                            "updatedAt": "2023-03-16T02:41:49.622Z"
+                        }
+                    },
+                    {
+                        "id": 86,
+                        "attributes": {
+                            "name": "IMG_4929.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_4929.JPG-bb99126f1408f6aa2be275c4f7b410c4.JPG",
+                                    "hash": "bb99126f1408f6aa2be275c4f7b410c4",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_4929.JPG",
+                                    "path": null,
+                                    "size": 70.17,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_4929.JPG-65f8196fba4951d3c4eb2a34b7e3b441.JPG",
+                                    "hash": "65f8196fba4951d3c4eb2a34b7e3b441",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_4929.JPG",
+                                    "path": null,
+                                    "size": 18.96,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_4929.JPG-2636bf66c473bffe2299047f5a2280a6.JPG",
+                                    "hash": "2636bf66c473bffe2299047f5a2280a6",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_4929.JPG",
+                                    "path": null,
+                                    "size": 40.21,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_4929.JPG-f9a0a858c6a9d6d70cd7904f6803c2b6.JPG",
+                                    "hash": "f9a0a858c6a9d6d70cd7904f6803c2b6",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_4929.JPG",
+                                    "path": null,
+                                    "size": 284.02,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_4929.JPG-367e27affff3d4e12ee3423c36dafc41.JPG",
+                                    "hash": "367e27affff3d4e12ee3423c36dafc41",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_4929.JPG",
+                                    "path": null,
+                                    "size": 1.05,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_4929.JPG-ee45db122aaebbd5d942ae785b768a6a.JPG",
+                                    "hash": "ee45db122aaebbd5d942ae785b768a6a",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_4929.JPG",
+                                    "path": null,
+                                    "size": 5.74,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "0b8635cd5c81c3915babb7d80cc1bc16",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2141.68,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_4929.JPG-0b8635cd5c81c3915babb7d80cc1bc16.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:41:31.233Z",
+                            "updatedAt": "2023-03-16T02:41:31.233Z"
+                        }
+                    },
+                    {
+                        "id": 85,
+                        "attributes": {
+                            "name": "IMG_4927.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_4927.JPG-da9cb98f6437fde95dbbe512d71513f5.JPG",
+                                    "hash": "da9cb98f6437fde95dbbe512d71513f5",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_4927.JPG",
+                                    "path": null,
+                                    "size": 65.92,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_4927.JPG-8f0f89602042f891360dd15458dda133.JPG",
+                                    "hash": "8f0f89602042f891360dd15458dda133",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_4927.JPG",
+                                    "path": null,
+                                    "size": 18.04,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_4927.JPG-0ee2271c7f6ddd263c765dc8840ae5d0.JPG",
+                                    "hash": "0ee2271c7f6ddd263c765dc8840ae5d0",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_4927.JPG",
+                                    "path": null,
+                                    "size": 37.67,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_4927.JPG-ddf5740fd35ebc058114f20950186670.JPG",
+                                    "hash": "ddf5740fd35ebc058114f20950186670",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_4927.JPG",
+                                    "path": null,
+                                    "size": 272.6,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_4927.JPG-e1ca8a3bd64f7a27792266ffbe8259c7.JPG",
+                                    "hash": "e1ca8a3bd64f7a27792266ffbe8259c7",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_4927.JPG",
+                                    "path": null,
+                                    "size": 1.05,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_4927.JPG-bb2fa3e640931ade47423ca26b12ecce.JPG",
+                                    "hash": "bb2fa3e640931ade47423ca26b12ecce",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_4927.JPG",
+                                    "path": null,
+                                    "size": 5.67,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "dfa407bd8400c9c37b4e58ab5cbd8632",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2126.71,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_4927.JPG-dfa407bd8400c9c37b4e58ab5cbd8632.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:41:14.091Z",
+                            "updatedAt": "2023-03-16T02:41:14.091Z"
+                        }
+                    },
+                    {
+                        "id": 84,
+                        "attributes": {
+                            "name": "IMG_7680.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7680.JPG-d6b7ea36e1c83eee7f33fe8f4e7ef66b.JPG",
+                                    "hash": "d6b7ea36e1c83eee7f33fe8f4e7ef66b",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7680.JPG",
+                                    "path": null,
+                                    "size": 78.05,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7680.JPG-4e893c155a67ffa8c1a427d801d6e8bc.JPG",
+                                    "hash": "4e893c155a67ffa8c1a427d801d6e8bc",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7680.JPG",
+                                    "path": null,
+                                    "size": 19.63,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7680.JPG-68c274408b123374700ab65fac94cd18.JPG",
+                                    "hash": "68c274408b123374700ab65fac94cd18",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7680.JPG",
+                                    "path": null,
+                                    "size": 43.79,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7680.JPG-c7d9be15446934ddb8cc93c9d6d95fe3.JPG",
+                                    "hash": "c7d9be15446934ddb8cc93c9d6d95fe3",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7680.JPG",
+                                    "path": null,
+                                    "size": 317.56,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7680.JPG-eaf43d4427c9ab27782bbdae021b0253.JPG",
+                                    "hash": "eaf43d4427c9ab27782bbdae021b0253",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7680.JPG",
+                                    "path": null,
+                                    "size": 0.96,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7680.JPG-f87f84db3ad15eb336686709195b8cd4.JPG",
+                                    "hash": "f87f84db3ad15eb336686709195b8cd4",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7680.JPG",
+                                    "path": null,
+                                    "size": 5.48,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "c6eb754294456848665251fe14cdd76f",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2259.67,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7680.JPG-c6eb754294456848665251fe14cdd76f.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:37:07.983Z",
+                            "updatedAt": "2023-03-16T02:37:07.983Z"
+                        }
+                    },
+                    {
+                        "id": 82,
+                        "attributes": {
+                            "name": "IMG_7674.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7674.JPG-4d467c27c4de0f213cb02e84f6544ace.JPG",
+                                    "hash": "4d467c27c4de0f213cb02e84f6544ace",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7674.JPG",
+                                    "path": null,
+                                    "size": 76.76,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7674.JPG-b3721bfd84876f907f33c39ee28a730f.JPG",
+                                    "hash": "b3721bfd84876f907f33c39ee28a730f",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7674.JPG",
+                                    "path": null,
+                                    "size": 18.76,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7674.JPG-f33e76f614a8f5d38e11b20934b38d92.JPG",
+                                    "hash": "f33e76f614a8f5d38e11b20934b38d92",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7674.JPG",
+                                    "path": null,
+                                    "size": 42.46,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7674.JPG-1985545ba849c267fc5f70dd1af66238.JPG",
+                                    "hash": "1985545ba849c267fc5f70dd1af66238",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7674.JPG",
+                                    "path": null,
+                                    "size": 315.78,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7674.JPG-c099cd9549b356008db9c9507b545e50.JPG",
+                                    "hash": "c099cd9549b356008db9c9507b545e50",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7674.JPG",
+                                    "path": null,
+                                    "size": 0.95,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7674.JPG-1417d6573ff07daa4e7b130dc4873e85.JPG",
+                                    "hash": "1417d6573ff07daa4e7b130dc4873e85",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7674.JPG",
+                                    "path": null,
+                                    "size": 5.2,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "7fd58e3a73ba28541deae1aa2f8e7e56",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2268.8,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7674.JPG-7fd58e3a73ba28541deae1aa2f8e7e56.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:35:56.396Z",
+                            "updatedAt": "2023-03-16T02:35:56.396Z"
+                        }
+                    },
+                    {
+                        "id": 78,
+                        "attributes": {
+                            "name": "IMG_7663.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7663.JPG-9421873eb7ac725148c3eef9c74ac4ed.JPG",
+                                    "hash": "9421873eb7ac725148c3eef9c74ac4ed",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7663.JPG",
+                                    "path": null,
+                                    "size": 82.8,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7663.JPG-2fad3445a3a1f1bad7c7cc51fdb12e82.JPG",
+                                    "hash": "2fad3445a3a1f1bad7c7cc51fdb12e82",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7663.JPG",
+                                    "path": null,
+                                    "size": 24.25,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7663.JPG-e9a77e8b4c30513335e24291bb7e10ea.JPG",
+                                    "hash": "e9a77e8b4c30513335e24291bb7e10ea",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7663.JPG",
+                                    "path": null,
+                                    "size": 49.6,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7663.JPG-a68bb8e1e6342cee5354fdec9d539974.JPG",
+                                    "hash": "a68bb8e1e6342cee5354fdec9d539974",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7663.JPG",
+                                    "path": null,
+                                    "size": 305.45,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7663.JPG-38f1c7d8d5a15638d3070f33e786322d.JPG",
+                                    "hash": "38f1c7d8d5a15638d3070f33e786322d",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7663.JPG",
+                                    "path": null,
+                                    "size": 1.23,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7663.JPG-330a4cc52fed415e5e860131fa53f3cb.JPG",
+                                    "hash": "330a4cc52fed415e5e860131fa53f3cb",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7663.JPG",
+                                    "path": null,
+                                    "size": 7.43,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "4e39219efc93ca2ba6ad109d2193fad8",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2211.25,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7663.JPG-4e39219efc93ca2ba6ad109d2193fad8.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:33:52.533Z",
+                            "updatedAt": "2023-03-16T02:33:52.533Z"
+                        }
+                    },
+                    {
+                        "id": 81,
+                        "attributes": {
+                            "name": "IMG_7672.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7672.JPG-0131e85ab0ed002808f791711efa5a9f.JPG",
+                                    "hash": "0131e85ab0ed002808f791711efa5a9f",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7672.JPG",
+                                    "path": null,
+                                    "size": 70.59,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7672.JPG-dc9f22c4412761a913ec54243144ea7d.JPG",
+                                    "hash": "dc9f22c4412761a913ec54243144ea7d",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7672.JPG",
+                                    "path": null,
+                                    "size": 16.97,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7672.JPG-afeec17d51ad284157bd7aef472d20bf.JPG",
+                                    "hash": "afeec17d51ad284157bd7aef472d20bf",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7672.JPG",
+                                    "path": null,
+                                    "size": 38.62,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7672.JPG-d358ccd98c135749a162f10165073d3a.JPG",
+                                    "hash": "d358ccd98c135749a162f10165073d3a",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7672.JPG",
+                                    "path": null,
+                                    "size": 306.54,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7672.JPG-df983202487c6fad21549944aef8c2eb.JPG",
+                                    "hash": "df983202487c6fad21549944aef8c2eb",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7672.JPG",
+                                    "path": null,
+                                    "size": 0.93,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7672.JPG-c5ae071c27328435d5886d579aa0beac.JPG",
+                                    "hash": "c5ae071c27328435d5886d579aa0beac",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7672.JPG",
+                                    "path": null,
+                                    "size": 4.78,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "5c87b5f36c267ae5250835bc3a0a0259",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2332.35,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7672.JPG-5c87b5f36c267ae5250835bc3a0a0259.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:35:37.142Z",
+                            "updatedAt": "2023-03-16T02:35:37.142Z"
+                        }
+                    },
+                    {
+                        "id": 80,
+                        "attributes": {
+                            "name": "IMG_7668.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7668.JPG-1902c85f0566d39440745e838d0a4471.JPG",
+                                    "hash": "1902c85f0566d39440745e838d0a4471",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7668.JPG",
+                                    "path": null,
+                                    "size": 65.94,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7668.JPG-b4aa6e63786a41856e3484e46e5fa8cc.JPG",
+                                    "hash": "b4aa6e63786a41856e3484e46e5fa8cc",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7668.JPG",
+                                    "path": null,
+                                    "size": 15.52,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7668.JPG-25a565794363b177bf12e89073371d5b.JPG",
+                                    "hash": "25a565794363b177bf12e89073371d5b",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7668.JPG",
+                                    "path": null,
+                                    "size": 35.65,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7668.JPG-8ab64b4d0813f35e274993e2fd78d1b0.JPG",
+                                    "hash": "8ab64b4d0813f35e274993e2fd78d1b0",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7668.JPG",
+                                    "path": null,
+                                    "size": 289.69,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7668.JPG-4403a1970cbf33b1ca2ddc76b6a6d4d3.JPG",
+                                    "hash": "4403a1970cbf33b1ca2ddc76b6a6d4d3",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7668.JPG",
+                                    "path": null,
+                                    "size": 0.89,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7668.JPG-50cd15e957f34ce272093a32148b078b.JPG",
+                                    "hash": "50cd15e957f34ce272093a32148b078b",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7668.JPG",
+                                    "path": null,
+                                    "size": 4.41,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "9394b4001c3ef9a80787702bc1093552",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2197.6,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7668.JPG-9394b4001c3ef9a80787702bc1093552.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:35:16.096Z",
+                            "updatedAt": "2023-03-16T02:35:16.096Z"
+                        }
+                    },
+                    {
+                        "id": 79,
+                        "attributes": {
+                            "name": "IMG_7667.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7667.JPG-0a126d823dd2fb590b3f0383ce09a586.JPG",
+                                    "hash": "0a126d823dd2fb590b3f0383ce09a586",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7667.JPG",
+                                    "path": null,
+                                    "size": 59.63,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7667.JPG-ed10e4b6f1d81918522bee9ef1761903.JPG",
+                                    "hash": "ed10e4b6f1d81918522bee9ef1761903",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7667.JPG",
+                                    "path": null,
+                                    "size": 16.07,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7667.JPG-1e640b3e8d7c7df3c6a8b269a31b64c5.JPG",
+                                    "hash": "1e640b3e8d7c7df3c6a8b269a31b64c5",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7667.JPG",
+                                    "path": null,
+                                    "size": 33.73,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7667.JPG-b34fbb1bca221da90023cd8e56e6d8cd.JPG",
+                                    "hash": "b34fbb1bca221da90023cd8e56e6d8cd",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7667.JPG",
+                                    "path": null,
+                                    "size": 253.26,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7667.JPG-747b57a90c843eeebfa1f5807da720ef.JPG",
+                                    "hash": "747b57a90c843eeebfa1f5807da720ef",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7667.JPG",
+                                    "path": null,
+                                    "size": 1,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7667.JPG-d82548052a081aae603f442c4de16605.JPG",
+                                    "hash": "d82548052a081aae603f442c4de16605",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7667.JPG",
+                                    "path": null,
+                                    "size": 5.05,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "bb37d57bc865e64f60883467f2a06107",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2056.53,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7667.JPG-bb37d57bc865e64f60883467f2a06107.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:34:18.877Z",
+                            "updatedAt": "2023-03-16T02:34:18.877Z"
+                        }
+                    },
+                    {
+                        "id": 75,
+                        "attributes": {
+                            "name": "IMG_7643.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7643.JPG-c878b8cb60353b88c5918da7db8e5108.JPG",
+                                    "hash": "c878b8cb60353b88c5918da7db8e5108",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7643.JPG",
+                                    "path": null,
+                                    "size": 81.91,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7643.JPG-ed9bb83256e00fb004cba9e52d03ff53.JPG",
+                                    "hash": "ed9bb83256e00fb004cba9e52d03ff53",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7643.JPG",
+                                    "path": null,
+                                    "size": 23.81,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7643.JPG-4a2333b7dfb04d6f711b94140b8a3934.JPG",
+                                    "hash": "4a2333b7dfb04d6f711b94140b8a3934",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7643.JPG",
+                                    "path": null,
+                                    "size": 48.61,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7643.JPG-4649c29afbc9f6711869be255a44ba71.JPG",
+                                    "hash": "4649c29afbc9f6711869be255a44ba71",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7643.JPG",
+                                    "path": null,
+                                    "size": 307.11,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7643.JPG-10682b7d42c901468e46a32f0932a575.JPG",
+                                    "hash": "10682b7d42c901468e46a32f0932a575",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7643.JPG",
+                                    "path": null,
+                                    "size": 1.19,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7643.JPG-46486245db6916daf55ff5b10fcb9b52.JPG",
+                                    "hash": "46486245db6916daf55ff5b10fcb9b52",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7643.JPG",
+                                    "path": null,
+                                    "size": 7.35,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "c99ceee84da5a8377906e4049113f51e",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2246.92,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7643.JPG-c99ceee84da5a8377906e4049113f51e.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:32:48.857Z",
+                            "updatedAt": "2023-03-16T02:32:48.857Z"
+                        }
+                    },
+                    {
+                        "id": 76,
+                        "attributes": {
+                            "name": "IMG_7645.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7645.JPG-76e9b0b1985959d9f1204ad265821e56.JPG",
+                                    "hash": "76e9b0b1985959d9f1204ad265821e56",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7645.JPG",
+                                    "path": null,
+                                    "size": 81.2,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7645.JPG-d7adc04bda483ac9b180127ce547a39c.JPG",
+                                    "hash": "d7adc04bda483ac9b180127ce547a39c",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7645.JPG",
+                                    "path": null,
+                                    "size": 23.6,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7645.JPG-22e5ac2072fa8e49a8cb39935c6b1b80.JPG",
+                                    "hash": "22e5ac2072fa8e49a8cb39935c6b1b80",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7645.JPG",
+                                    "path": null,
+                                    "size": 48.47,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7645.JPG-3a88968f91bea0bbe9788b691b3b8f6c.JPG",
+                                    "hash": "3a88968f91bea0bbe9788b691b3b8f6c",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7645.JPG",
+                                    "path": null,
+                                    "size": 305.48,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7645.JPG-4136b067206e69a88dbaaa20e0c27f8d.JPG",
+                                    "hash": "4136b067206e69a88dbaaa20e0c27f8d",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7645.JPG",
+                                    "path": null,
+                                    "size": 1.17,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7645.JPG-dbc8195c94c34511556a6930f4c47d73.JPG",
+                                    "hash": "dbc8195c94c34511556a6930f4c47d73",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7645.JPG",
+                                    "path": null,
+                                    "size": 7.21,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "165a4e36779fcdca334025d3d8ae2549",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2225.58,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7645.JPG-165a4e36779fcdca334025d3d8ae2549.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:33:07.775Z",
+                            "updatedAt": "2023-03-16T02:33:07.775Z"
+                        }
+                    },
+                    {
+                        "id": 77,
+                        "attributes": {
+                            "name": "IMG_7651.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7651.JPG-cd62945afa304b45631fe84f36cf0857.JPG",
+                                    "hash": "cd62945afa304b45631fe84f36cf0857",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7651.JPG",
+                                    "path": null,
+                                    "size": 102.26,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7651.JPG-f04cb901cc81de0d39f775d052796c7a.JPG",
+                                    "hash": "f04cb901cc81de0d39f775d052796c7a",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7651.JPG",
+                                    "path": null,
+                                    "size": 29.01,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7651.JPG-95769a6a10220c905262606d9ee3cd9c.JPG",
+                                    "hash": "95769a6a10220c905262606d9ee3cd9c",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7651.JPG",
+                                    "path": null,
+                                    "size": 60.91,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7651.JPG-3d008b65cfbbd4ab1d598290fffcd2ea.JPG",
+                                    "hash": "3d008b65cfbbd4ab1d598290fffcd2ea",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7651.JPG",
+                                    "path": null,
+                                    "size": 361.35,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7651.JPG-248c9044f7e519d7d66af640af18ab7d.JPG",
+                                    "hash": "248c9044f7e519d7d66af640af18ab7d",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7651.JPG",
+                                    "path": null,
+                                    "size": 1.2,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7651.JPG-994ea3396c8aa64983b93b820de22afa.JPG",
+                                    "hash": "994ea3396c8aa64983b93b820de22afa",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7651.JPG",
+                                    "path": null,
+                                    "size": 8.21,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "9fe8533f55fe1ef7c466079f07f34d90",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2348.91,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7651.JPG-9fe8533f55fe1ef7c466079f07f34d90.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:33:26.731Z",
+                            "updatedAt": "2023-03-16T02:33:26.731Z"
+                        }
+                    },
+                    {
+                        "id": 74,
+                        "attributes": {
+                            "name": "IMG_7638.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7638.JPG-6ec5f2c2e8ee1396734fc879f17dd141.JPG",
+                                    "hash": "6ec5f2c2e8ee1396734fc879f17dd141",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7638.JPG",
+                                    "path": null,
+                                    "size": 76.47,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7638.JPG-079a16aa78a284caf2cc7a7f956fdeb2.JPG",
+                                    "hash": "079a16aa78a284caf2cc7a7f956fdeb2",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7638.JPG",
+                                    "path": null,
+                                    "size": 19.77,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7638.JPG-8edb234ef91eace7292e0f7fa9e5e576.JPG",
+                                    "hash": "8edb234ef91eace7292e0f7fa9e5e576",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7638.JPG",
+                                    "path": null,
+                                    "size": 43.35,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7638.JPG-63c1a38fd114c779776986dd7d8ed87a.JPG",
+                                    "hash": "63c1a38fd114c779776986dd7d8ed87a",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7638.JPG",
+                                    "path": null,
+                                    "size": 304.06,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7638.JPG-9b50821e9da04350557443cbaa5d9fc0.JPG",
+                                    "hash": "9b50821e9da04350557443cbaa5d9fc0",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7638.JPG",
+                                    "path": null,
+                                    "size": 0.98,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7638.JPG-06638f48393ed4c0c9eb8484defa1986.JPG",
+                                    "hash": "06638f48393ed4c0c9eb8484defa1986",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7638.JPG",
+                                    "path": null,
+                                    "size": 5.69,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "11dfeb22fa44687be7711edcb89a57dc",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2207.77,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7638.JPG-11dfeb22fa44687be7711edcb89a57dc.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:48.376Z",
+                            "updatedAt": "2023-03-16T02:29:48.376Z"
+                        }
+                    },
+                    {
+                        "id": 73,
+                        "attributes": {
+                            "name": "IMG_7653.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7653.JPG-07ec246628fcdad3f4a0359d5f8e11f3.JPG",
+                                    "hash": "07ec246628fcdad3f4a0359d5f8e11f3",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7653.JPG",
+                                    "path": null,
+                                    "size": 79.58,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7653.JPG-d389ed421a52d6e325a839e5eee1cf2d.JPG",
+                                    "hash": "d389ed421a52d6e325a839e5eee1cf2d",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7653.JPG",
+                                    "path": null,
+                                    "size": 21.81,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7653.JPG-7b29a6076b7c3f0a10179bcacfa8abfe.JPG",
+                                    "hash": "7b29a6076b7c3f0a10179bcacfa8abfe",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7653.JPG",
+                                    "path": null,
+                                    "size": 46.44,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7653.JPG-e24196a43f790a8b904b3a172310adfd.JPG",
+                                    "hash": "e24196a43f790a8b904b3a172310adfd",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7653.JPG",
+                                    "path": null,
+                                    "size": 302.98,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7653.JPG-a23132cfb5ff3176eef461c8bab444ea.JPG",
+                                    "hash": "a23132cfb5ff3176eef461c8bab444ea",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7653.JPG",
+                                    "path": null,
+                                    "size": 1.07,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7653.JPG-4d0832f05e0a6a3b4b41ae9a47e3dafc.JPG",
+                                    "hash": "4d0832f05e0a6a3b4b41ae9a47e3dafc",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7653.JPG",
+                                    "path": null,
+                                    "size": 6.16,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "29116b68e42b715894a39e6f932f5c27",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2180.68,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7653.JPG-29116b68e42b715894a39e6f932f5c27.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:44.406Z",
+                            "updatedAt": "2023-03-16T02:29:44.406Z"
+                        }
+                    },
+                    {
+                        "id": 72,
+                        "attributes": {
+                            "name": "IMG_7684.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7684.JPG-ecda66af28e5902c60405fa95970ed4b.JPG",
+                                    "hash": "ecda66af28e5902c60405fa95970ed4b",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7684.JPG",
+                                    "path": null,
+                                    "size": 51.53,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7684.JPG-bd5e8953a6130ccfe6ffd8e9d97eab4d.JPG",
+                                    "hash": "bd5e8953a6130ccfe6ffd8e9d97eab4d",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7684.JPG",
+                                    "path": null,
+                                    "size": 13.18,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7684.JPG-4a7897fe7144edbef6eca7c2f716ea33.JPG",
+                                    "hash": "4a7897fe7144edbef6eca7c2f716ea33",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7684.JPG",
+                                    "path": null,
+                                    "size": 28.41,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7684.JPG-4fff6e1729e6ae51c18e57dc4ec475c1.JPG",
+                                    "hash": "4fff6e1729e6ae51c18e57dc4ec475c1",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7684.JPG",
+                                    "path": null,
+                                    "size": 236.27,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7684.JPG-46a0495649dded5d53dea546b20a624e.JPG",
+                                    "hash": "46a0495649dded5d53dea546b20a624e",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7684.JPG",
+                                    "path": null,
+                                    "size": 0.88,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7684.JPG-039f6dc2344d5a932dc9491b66f57079.JPG",
+                                    "hash": "039f6dc2344d5a932dc9491b66f57079",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7684.JPG",
+                                    "path": null,
+                                    "size": 4.25,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "55bf1bfc934e0b09bf324d463ba47e93",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2015.58,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7684.JPG-55bf1bfc934e0b09bf324d463ba47e93.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:40.319Z",
+                            "updatedAt": "2023-03-16T02:29:40.319Z"
+                        }
+                    },
+                    {
+                        "id": 70,
+                        "attributes": {
+                            "name": "IMG_7637.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7637.JPG-6fa0b331242a9ed3e0271e3f58540f93.JPG",
+                                    "hash": "6fa0b331242a9ed3e0271e3f58540f93",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7637.JPG",
+                                    "path": null,
+                                    "size": 75.06,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7637.JPG-2b018eb617bc16c150ebda101261f9bf.JPG",
+                                    "hash": "2b018eb617bc16c150ebda101261f9bf",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7637.JPG",
+                                    "path": null,
+                                    "size": 21.65,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7637.JPG-5665f2edd947067423bf6bebc80909ae.JPG",
+                                    "hash": "5665f2edd947067423bf6bebc80909ae",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7637.JPG",
+                                    "path": null,
+                                    "size": 44.16,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7637.JPG-d045db6f64c5d75985ba751fe624a44e.JPG",
+                                    "hash": "d045db6f64c5d75985ba751fe624a44e",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7637.JPG",
+                                    "path": null,
+                                    "size": 288.5,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7637.JPG-0e0a3e4e2a3e3e8e8bd9555b629246ff.JPG",
+                                    "hash": "0e0a3e4e2a3e3e8e8bd9555b629246ff",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7637.JPG",
+                                    "path": null,
+                                    "size": 1.13,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7637.JPG-b8920b38fb8acbdd8057bc9bd77208f6.JPG",
+                                    "hash": "b8920b38fb8acbdd8057bc9bd77208f6",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7637.JPG",
+                                    "path": null,
+                                    "size": 6.86,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "df4e6300c859460ddc39338cd3b502d4",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2161.11,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7637.JPG-df4e6300c859460ddc39338cd3b502d4.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:39.771Z",
+                            "updatedAt": "2023-03-16T02:29:39.771Z"
+                        }
+                    },
+                    {
+                        "id": 71,
+                        "attributes": {
+                            "name": "IMG_7702.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7702.JPG-5f1ea8b03d7aff513b75c42e4076e899.JPG",
+                                    "hash": "5f1ea8b03d7aff513b75c42e4076e899",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7702.JPG",
+                                    "path": null,
+                                    "size": 65.82,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7702.JPG-8afced63a4fd021d5209ac3d302b4f3b.JPG",
+                                    "hash": "8afced63a4fd021d5209ac3d302b4f3b",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7702.JPG",
+                                    "path": null,
+                                    "size": 18.59,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7702.JPG-4f0c38e86fe843870d52f4bfd7c119d9.JPG",
+                                    "hash": "4f0c38e86fe843870d52f4bfd7c119d9",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7702.JPG",
+                                    "path": null,
+                                    "size": 38.07,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7702.JPG-c0058e60c6430b233036738acd0d437e.JPG",
+                                    "hash": "c0058e60c6430b233036738acd0d437e",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7702.JPG",
+                                    "path": null,
+                                    "size": 266.26,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7702.JPG-146adcbfb90f1e7955653a663a17ccab.JPG",
+                                    "hash": "146adcbfb90f1e7955653a663a17ccab",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7702.JPG",
+                                    "path": null,
+                                    "size": 1.06,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7702.JPG-722aa7545d62d880e57cf504a2c224d1.JPG",
+                                    "hash": "722aa7545d62d880e57cf504a2c224d1",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7702.JPG",
+                                    "path": null,
+                                    "size": 5.86,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "36e054305df92769936aed109055ea8c",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2081.06,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7702.JPG-36e054305df92769936aed109055ea8c.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:39.782Z",
+                            "updatedAt": "2023-03-16T02:29:39.782Z"
+                        }
+                    },
+                    {
+                        "id": 69,
+                        "attributes": {
+                            "name": "IMG_7685.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7685.JPG-b6bef205d54067d25ff01fdfbd781e10.JPG",
+                                    "hash": "b6bef205d54067d25ff01fdfbd781e10",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7685.JPG",
+                                    "path": null,
+                                    "size": 66.18,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7685.JPG-408638acc1a699cfea7cc276d7f71652.JPG",
+                                    "hash": "408638acc1a699cfea7cc276d7f71652",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7685.JPG",
+                                    "path": null,
+                                    "size": 18.43,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7685.JPG-929e01e8a4e33a11a6cca7c8c0b9dddb.JPG",
+                                    "hash": "929e01e8a4e33a11a6cca7c8c0b9dddb",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7685.JPG",
+                                    "path": null,
+                                    "size": 38.42,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7685.JPG-bd3293d9103942919801735d4d10bc0f.JPG",
+                                    "hash": "bd3293d9103942919801735d4d10bc0f",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7685.JPG",
+                                    "path": null,
+                                    "size": 263.74,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7685.JPG-f423f84eddef1f007a6ddae1a5f5965f.JPG",
+                                    "hash": "f423f84eddef1f007a6ddae1a5f5965f",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7685.JPG",
+                                    "path": null,
+                                    "size": 1,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7685.JPG-2d38cd2e8abd85bc0e686062ab82eb30.JPG",
+                                    "hash": "2d38cd2e8abd85bc0e686062ab82eb30",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7685.JPG",
+                                    "path": null,
+                                    "size": 5.74,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "cde47f02d4b085edea38061bd92de27d",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2009.72,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7685.JPG-cde47f02d4b085edea38061bd92de27d.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:38.746Z",
+                            "updatedAt": "2023-03-16T02:29:38.746Z"
+                        }
+                    },
+                    {
+                        "id": 68,
+                        "attributes": {
+                            "name": "IMG_7688.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7688.JPG-897947370abbbda0e8230f873b791a9b.JPG",
+                                    "hash": "897947370abbbda0e8230f873b791a9b",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7688.JPG",
+                                    "path": null,
+                                    "size": 68.53,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7688.JPG-edd46d7be69697aa106aec96a4150adb.JPG",
+                                    "hash": "edd46d7be69697aa106aec96a4150adb",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7688.JPG",
+                                    "path": null,
+                                    "size": 18.59,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7688.JPG-0a12adfb01a02032532b088d631121eb.JPG",
+                                    "hash": "0a12adfb01a02032532b088d631121eb",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7688.JPG",
+                                    "path": null,
+                                    "size": 39.67,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7688.JPG-cf0dc614ab16508923933410c00291e2.JPG",
+                                    "hash": "cf0dc614ab16508923933410c00291e2",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7688.JPG",
+                                    "path": null,
+                                    "size": 269.13,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7688.JPG-cb9100f4dc46a9a5f6ed0a8ed85fb8d2.JPG",
+                                    "hash": "cb9100f4dc46a9a5f6ed0a8ed85fb8d2",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7688.JPG",
+                                    "path": null,
+                                    "size": 0.99,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7688.JPG-4a846ade434a5d5a82d3f369be4ef0d3.JPG",
+                                    "hash": "4a846ade434a5d5a82d3f369be4ef0d3",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7688.JPG",
+                                    "path": null,
+                                    "size": 5.52,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "613ae1768b07d64f25389a9f29fb9c59",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 1993.88,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7688.JPG-613ae1768b07d64f25389a9f29fb9c59.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:38.257Z",
+                            "updatedAt": "2023-03-16T02:29:38.257Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "attributes": {
+                            "name": "IMG_7635.JPG",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 5184,
+                            "height": 3456,
+                            "formats": {
+                                "large": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_7635.JPG-1a0b63042924429302ade48d7f715b4f.JPG",
+                                    "hash": "1a0b63042924429302ade48d7f715b4f",
+                                    "mime": "image/jpeg",
+                                    "name": "large_IMG_7635.JPG",
+                                    "path": null,
+                                    "size": 77.86,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_7635.JPG-593bf9c8d928becfb4f3d27b850e68d3.JPG",
+                                    "hash": "593bf9c8d928becfb4f3d27b850e68d3",
+                                    "mime": "image/jpeg",
+                                    "name": "small_IMG_7635.JPG",
+                                    "path": null,
+                                    "size": 20.88,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_7635.JPG-b3e4fd1e6cccfc31da256fa1a82164c9.JPG",
+                                    "hash": "b3e4fd1e6cccfc31da256fa1a82164c9",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_IMG_7635.JPG",
+                                    "path": null,
+                                    "size": 44.81,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_7635.JPG-7a5205a55d5872a7ca9ad81a1a8af9dd.JPG",
+                                    "hash": "7a5205a55d5872a7ca9ad81a1a8af9dd",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_IMG_7635.JPG",
+                                    "path": null,
+                                    "size": 296.33,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_7635.JPG-336a8a80cf43d0ebbc8d1031a92977b4.JPG",
+                                    "hash": "336a8a80cf43d0ebbc8d1031a92977b4",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_IMG_7635.JPG",
+                                    "path": null,
+                                    "size": 1.07,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".JPG",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_7635.JPG-b8f9dae76bcfed4c641c35cf9833e717.JPG",
+                                    "hash": "b8f9dae76bcfed4c641c35cf9833e717",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_IMG_7635.JPG",
+                                    "path": null,
+                                    "size": 6.23,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "ded31f938a99a8a6228e041d728873d2",
+                            "ext": ".JPG",
+                            "mime": "image/jpeg",
+                            "size": 2080.62,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_7635.JPG-ded31f938a99a8a6228e041d728873d2.JPG",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T02:29:34.817Z",
+                            "updatedAt": "2023-03-16T02:29:34.817Z"
+                        }
+                    }
+                ]
+            },
+            "floorPlan": {
+                "data": {
+                    "id": 32,
+                    "attributes": {
+                        "name": "1520-Floor-Plan.pdf",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": null,
+                        "height": null,
+                        "formats": null,
+                        "hash": "178b39e4926193018ec992e4b27e7c3f",
+                        "ext": ".pdf",
+                        "mime": "application/pdf",
+                        "size": 148.46,
+                        "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/1520-Floor-Plan.pdf-178b39e4926193018ec992e4b27e7c3f.pdf",
+                        "previewUrl": null,
+                        "provider": "strapi-provider-upload-supabase",
+                        "provider_metadata": null,
+                        "createdAt": "2023-03-14T16:06:44.773Z",
+                        "updatedAt": "2023-03-14T16:07:01.753Z"
+                    }
+                }
+            }
+        }
+    },
+    "meta": {}
+}

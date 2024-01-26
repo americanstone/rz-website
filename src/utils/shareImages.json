@@ -1,0 +1,103 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "phone": "3309047520",
+            "companyLegalName": "RZ Electric, LLC",
+            "websiteName": "RZ Electric, LLC",
+            "location": "Los Angeles, California",
+            "formspreeContactFormId": "mdobwbql",
+            "createdAt": "2023-01-05T17:12:15.629Z",
+            "updatedAt": "2023-03-12T18:16:57.432Z",
+            "publishedAt": "2023-01-05T17:12:18.979Z",
+            "footerLeft": "<p>[location]<br>[phone]</p><p>Copyright © [current_year] [company_legal_name]</p>",
+            "footerRight": "<p>Exclusively Marketed by:<br><a href=\"https://www.tesla.com/\">Elon Musk</a><br>Tesla</p>",
+            "realEstateWebsite": "https://www.tesla.com",
+            "globalSeo": {
+                "id": 1,
+                "title": "RZ Electric, LLC - Los Angeles electrician - Los Angeles, California",
+                "description": "RZ Electric, LLC - Los Angeles electrician.",
+                "shareImage": {
+                    "data": {
+                        "id": 11,
+                        "attributes": {
+                            "name": "site-image.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1024,
+                            "height": 768,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_site-image.jpg-412d1f888081fbd796df74a42b039f45.jpg",
+                                    "hash": "412d1f888081fbd796df74a42b039f45",
+                                    "mime": "image/jpeg",
+                                    "name": "large_site-image.jpg",
+                                    "path": null,
+                                    "size": 109.11,
+                                    "width": 1000,
+                                    "height": 750
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_site-image.jpg-76955dd8781b279315a3d933e11b68e2.jpg",
+                                    "hash": "76955dd8781b279315a3d933e11b68e2",
+                                    "mime": "image/jpeg",
+                                    "name": "small_site-image.jpg",
+                                    "path": null,
+                                    "size": 32.27,
+                                    "width": 500,
+                                    "height": 375
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_site-image.jpg-e88b4a486fe8c638aab0ef51c6c82625.jpg",
+                                    "hash": "e88b4a486fe8c638aab0ef51c6c82625",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_site-image.jpg",
+                                    "path": null,
+                                    "size": 67.31,
+                                    "width": 750,
+                                    "height": 563
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_site-image.jpg-aa98ee58eb7238dcdad29f40b5152a71.jpg",
+                                    "hash": "aa98ee58eb7238dcdad29f40b5152a71",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_site-image.jpg",
+                                    "path": null,
+                                    "size": 1.19,
+                                    "width": 64,
+                                    "height": 48
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_site-image.jpg-63ca990efec94b34b4f78ae742a7cfcc.jpg",
+                                    "hash": "63ca990efec94b34b4f78ae742a7cfcc",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_site-image.jpg",
+                                    "path": null,
+                                    "size": 6.69,
+                                    "width": 208,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "daf732184977b3d8cc70db4497af24ec",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 99.5,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/site-image.jpg-daf732184977b3d8cc70db4497af24ec.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-01-15T22:41:44.025Z",
+                            "updatedAt": "2023-01-15T22:41:44.025Z"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "meta": {}
+}

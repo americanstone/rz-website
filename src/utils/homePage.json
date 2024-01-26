@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "pageBody": "<h1>Gallery</h1><p>We can make your dream homes a reality! Check out these homes we've recently built. Choose from one of these plans, some of our many others or let us help you design the perfect home that meets your needs.</p>",
+            "title": "Gallery",
+            "createdAt": "2023-01-05T17:42:02.184Z",
+            "updatedAt": "2023-03-17T00:26:46.211Z",
+            "publishedAt": "2023-01-05T17:42:04.865Z"
+        }
+    },
+    "meta": {}
+}

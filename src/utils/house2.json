@@ -1,0 +1,3127 @@
+{
+    "data": {
+        "id": 2,
+        "attributes": {
+            "bedrooms": 3,
+            "halfBathrooms": 0,
+            "squareFeet": 1568,
+            "createdAt": "2023-03-12T01:47:01.901Z",
+            "updatedAt": "2023-03-16T12:51:36.215Z",
+            "publishedAt": "2023-03-12T01:47:15.388Z",
+            "fullBathrooms": 2,
+            "title": "1,568 SF Split Ranch Farmhouse",
+            "description": "<p>Unique split bedroom design with 9-foot ceilings and beamed vaulted ceilings in great room and master bedroom.</p>",
+            "virtualTourLink": "https://www.zillow.com/view-3d-home/51a43b12-ff4f-40a9-8f73-96602b9ed179",
+            "thumbnail": {
+                "data": {
+                    "id": 20,
+                    "attributes": {
+                        "name": "1568-front.jpg",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 6958,
+                        "height": 4639,
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_1568-front.jpg-a3f931825a6f3373eafc24bb73161fee.jpg",
+                                "hash": "a3f931825a6f3373eafc24bb73161fee",
+                                "mime": "image/jpeg",
+                                "name": "large_1568-front.jpg",
+                                "path": null,
+                                "size": 128.97,
+                                "width": 1000,
+                                "height": 666
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_1568-front.jpg-dd6de16713861208b1bae7be89052ceb.jpg",
+                                "hash": "dd6de16713861208b1bae7be89052ceb",
+                                "mime": "image/jpeg",
+                                "name": "small_1568-front.jpg",
+                                "path": null,
+                                "size": 34.52,
+                                "width": 500,
+                                "height": 333
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_1568-front.jpg-7e1068e4fb1a9f4ce43cb763dfbea99b.jpg",
+                                "hash": "7e1068e4fb1a9f4ce43cb763dfbea99b",
+                                "mime": "image/jpeg",
+                                "name": "medium_1568-front.jpg",
+                                "path": null,
+                                "size": 72.96,
+                                "width": 750,
+                                "height": 500
+                            },
+                            "xlarge": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_1568-front.jpg-8f1978898994fdb07e94ad20f488cf25.jpg",
+                                "hash": "8f1978898994fdb07e94ad20f488cf25",
+                                "mime": "image/jpeg",
+                                "name": "xlarge_1568-front.jpg",
+                                "path": null,
+                                "size": 459.85,
+                                "width": 1920,
+                                "height": 1280
+                            },
+                            "xsmall": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_1568-front.jpg-96e3d597b4ebdc126a9b2039594bcb63.jpg",
+                                "hash": "96e3d597b4ebdc126a9b2039594bcb63",
+                                "mime": "image/jpeg",
+                                "name": "xsmall_1568-front.jpg",
+                                "path": null,
+                                "size": 1.25,
+                                "width": 64,
+                                "height": 43
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_1568-front.jpg-6a59b0756e03fae2b3984400f2df35d1.jpg",
+                                "hash": "6a59b0756e03fae2b3984400f2df35d1",
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_1568-front.jpg",
+                                "path": null,
+                                "size": 9.31,
+                                "width": 234,
+                                "height": 156
+                            }
+                        },
+                        "hash": "de7a682a06c5bd161959240ff2d45733",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 3438.36,
+                        "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/1568-front.jpg-de7a682a06c5bd161959240ff2d45733.jpg",
+                        "previewUrl": null,
+                        "provider": "strapi-provider-upload-supabase",
+                        "provider_metadata": null,
+                        "createdAt": "2023-03-12T01:54:44.694Z",
+                        "updatedAt": "2023-03-12T01:54:44.694Z"
+                    }
+                }
+            },
+            "photos": {
+                "data": [
+                    {
+                        "id": 154,
+                        "attributes": {
+                            "name": "DSC08543-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6978,
+                            "height": 4652,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08543-HDR.jpg-43242d442b0a5c79b3ce39d74b292db8.jpg",
+                                    "hash": "43242d442b0a5c79b3ce39d74b292db8",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08543-HDR.jpg",
+                                    "path": null,
+                                    "size": 54.28,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08543-HDR.jpg-1eb3d2ab9adf661f55f875ba1a51c010.jpg",
+                                    "hash": "1eb3d2ab9adf661f55f875ba1a51c010",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08543-HDR.jpg",
+                                    "path": null,
+                                    "size": 17.15,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08543-HDR.jpg-4533c2aa6db6a4bf6659bcc0795a6983.jpg",
+                                    "hash": "4533c2aa6db6a4bf6659bcc0795a6983",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08543-HDR.jpg",
+                                    "path": null,
+                                    "size": 33.12,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08543-HDR.jpg-de6b0eab0e012be3dc9b7c571585cc7e.jpg",
+                                    "hash": "de6b0eab0e012be3dc9b7c571585cc7e",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08543-HDR.jpg",
+                                    "path": null,
+                                    "size": 176.35,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08543-HDR.jpg-6ddbe83353aee397e706cc00fa2296da.jpg",
+                                    "hash": "6ddbe83353aee397e706cc00fa2296da",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08543-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.97,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08543-HDR.jpg-7241b20b9c36d8ee4cfb8e28bac2e86b.jpg",
+                                    "hash": "7241b20b9c36d8ee4cfb8e28bac2e86b",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08543-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.44,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "ccb1f97f54ee3f036235ed535016903c",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1570.41,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08543-HDR.jpg-ccb1f97f54ee3f036235ed535016903c.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:48:15.582Z",
+                            "updatedAt": "2023-03-16T12:48:15.582Z"
+                        }
+                    },
+                    {
+                        "id": 153,
+                        "attributes": {
+                            "name": "DSC08528-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6939,
+                            "height": 4626,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08528-HDR.jpg-ce6d0fc0eae9345f5b3d8b6f1bb7c14e.jpg",
+                                    "hash": "ce6d0fc0eae9345f5b3d8b6f1bb7c14e",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08528-HDR.jpg",
+                                    "path": null,
+                                    "size": 86.5,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08528-HDR.jpg-8e545310978632fc1d6b7ae5bcacc395.jpg",
+                                    "hash": "8e545310978632fc1d6b7ae5bcacc395",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08528-HDR.jpg",
+                                    "path": null,
+                                    "size": 25.92,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08528-HDR.jpg-9f21aef8cef4dd5b2f56dfafb79d1e7d.jpg",
+                                    "hash": "9f21aef8cef4dd5b2f56dfafb79d1e7d",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08528-HDR.jpg",
+                                    "path": null,
+                                    "size": 51.09,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08528-HDR.jpg-e0d91cfa0d71c6ea237e8d1045ae1d60.jpg",
+                                    "hash": "e0d91cfa0d71c6ea237e8d1045ae1d60",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08528-HDR.jpg",
+                                    "path": null,
+                                    "size": 290.32,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08528-HDR.jpg-9b4cea59f30a67e4fbef509afffd786d.jpg",
+                                    "hash": "9b4cea59f30a67e4fbef509afffd786d",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08528-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.18,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08528-HDR.jpg-a1485900df04a6e4170741c36256ff8c.jpg",
+                                    "hash": "a1485900df04a6e4170741c36256ff8c",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08528-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.65,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "f4e92362a246a0608ee1dfd64fb29a3c",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2416.45,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08528-HDR.jpg-f4e92362a246a0608ee1dfd64fb29a3c.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:47:48.646Z",
+                            "updatedAt": "2023-03-16T12:47:48.646Z"
+                        }
+                    },
+                    {
+                        "id": 152,
+                        "attributes": {
+                            "name": "DSC08513-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6968,
+                            "height": 4645,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08513-HDR.jpg-be9b43fb6365bee5d3594861ea812221.jpg",
+                                    "hash": "be9b43fb6365bee5d3594861ea812221",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08513-HDR.jpg",
+                                    "path": null,
+                                    "size": 59.94,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08513-HDR.jpg-38cdcb24ed595c965a1578338e685b23.jpg",
+                                    "hash": "38cdcb24ed595c965a1578338e685b23",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08513-HDR.jpg",
+                                    "path": null,
+                                    "size": 19.11,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08513-HDR.jpg-f25bf77f12d50bdb5c51d1036eca855a.jpg",
+                                    "hash": "f25bf77f12d50bdb5c51d1036eca855a",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08513-HDR.jpg",
+                                    "path": null,
+                                    "size": 36.49,
+                                    "width": 750,
+                                    "height": 499
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08513-HDR.jpg-7301724ca96da7f5720ddf31637e68c0.jpg",
+                                    "hash": "7301724ca96da7f5720ddf31637e68c0",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08513-HDR.jpg",
+                                    "path": null,
+                                    "size": 185.74,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08513-HDR.jpg-5fcc101301ca05b6ad45b061c47c223c.jpg",
+                                    "hash": "5fcc101301ca05b6ad45b061c47c223c",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08513-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.02,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08513-HDR.jpg-63b2326e64fcadfd8dc948d5c2c25629.jpg",
+                                    "hash": "63b2326e64fcadfd8dc948d5c2c25629",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08513-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.9,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "203f187c314913655eb89d1e28c141f6",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1418.05,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08513-HDR.jpg-203f187c314913655eb89d1e28c141f6.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:47:28.897Z",
+                            "updatedAt": "2023-03-16T12:47:28.897Z"
+                        }
+                    },
+                    {
+                        "id": 151,
+                        "attributes": {
+                            "name": "DSC08503-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6949,
+                            "height": 4633,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08503-HDR.jpg-1296fa6525341d0d1019905c1597ffae.jpg",
+                                    "hash": "1296fa6525341d0d1019905c1597ffae",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08503-HDR.jpg",
+                                    "path": null,
+                                    "size": 91.32,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08503-HDR.jpg-b16d70b6001a4a24c7d1f9cbe2c03ac1.jpg",
+                                    "hash": "b16d70b6001a4a24c7d1f9cbe2c03ac1",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08503-HDR.jpg",
+                                    "path": null,
+                                    "size": 28.58,
+                                    "width": 500,
+                                    "height": 334
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08503-HDR.jpg-b10a1ff41619872bb64a8fdaa6be8e28.jpg",
+                                    "hash": "b10a1ff41619872bb64a8fdaa6be8e28",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08503-HDR.jpg",
+                                    "path": null,
+                                    "size": 55.4,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08503-HDR.jpg-c5a7d9112e5ab3fd4de79c02aa71481d.jpg",
+                                    "hash": "c5a7d9112e5ab3fd4de79c02aa71481d",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08503-HDR.jpg",
+                                    "path": null,
+                                    "size": 283.01,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08503-HDR.jpg-6616503c6087f3f9365ee156e4e6a15b.jpg",
+                                    "hash": "6616503c6087f3f9365ee156e4e6a15b",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08503-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.26,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08503-HDR.jpg-be03ab3f053cb69c6c4b8995a98aff4d.jpg",
+                                    "hash": "be03ab3f053cb69c6c4b8995a98aff4d",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08503-HDR.jpg",
+                                    "path": null,
+                                    "size": 8.5,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "097f2c65e74898e5d3494b5e7092c8a7",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2064.83,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08503-HDR.jpg-097f2c65e74898e5d3494b5e7092c8a7.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:42:36.775Z",
+                            "updatedAt": "2023-03-16T12:42:36.775Z"
+                        }
+                    },
+                    {
+                        "id": 150,
+                        "attributes": {
+                            "name": "DSC08522-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6963,
+                            "height": 4642,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08522-HDR.jpg-be6d58ad4fe073de8815143f393458b6.jpg",
+                                    "hash": "be6d58ad4fe073de8815143f393458b6",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08522-HDR.jpg",
+                                    "path": null,
+                                    "size": 75.86,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08522-HDR.jpg-f2f4d68df2397ac40e6c909c0145b883.jpg",
+                                    "hash": "f2f4d68df2397ac40e6c909c0145b883",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08522-HDR.jpg",
+                                    "path": null,
+                                    "size": 22.46,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08522-HDR.jpg-d4dc2b9ac980e14fc1c4017e80d7fd15.jpg",
+                                    "hash": "d4dc2b9ac980e14fc1c4017e80d7fd15",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08522-HDR.jpg",
+                                    "path": null,
+                                    "size": 44.64,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08522-HDR.jpg-99b004d5124434911bbe3c3bb9d8174e.jpg",
+                                    "hash": "99b004d5124434911bbe3c3bb9d8174e",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08522-HDR.jpg",
+                                    "path": null,
+                                    "size": 251.23,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08522-HDR.jpg-ca339bf80f6079e99831a3dd7f34656f.jpg",
+                                    "hash": "ca339bf80f6079e99831a3dd7f34656f",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08522-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.06,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08522-HDR.jpg-c4efff8a4d5706ee8b8f75efa009d903.jpg",
+                                    "hash": "c4efff8a4d5706ee8b8f75efa009d903",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08522-HDR.jpg",
+                                    "path": null,
+                                    "size": 6.62,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "2c7a4f1fa1b28c36fda99b7fee915da7",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1984.22,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08522-HDR.jpg-2c7a4f1fa1b28c36fda99b7fee915da7.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:42:36.675Z",
+                            "updatedAt": "2023-03-16T12:42:36.675Z"
+                        }
+                    },
+                    {
+                        "id": 149,
+                        "attributes": {
+                            "name": "DSC08500-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6936,
+                            "height": 4624,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08500-HDR.jpg-740f6394e106c50884b97f68fa53a415.jpg",
+                                    "hash": "740f6394e106c50884b97f68fa53a415",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08500-HDR.jpg",
+                                    "path": null,
+                                    "size": 85.54,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08500-HDR.jpg-eafdcfd046fe004dc7e1ef417d4ce310.jpg",
+                                    "hash": "eafdcfd046fe004dc7e1ef417d4ce310",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08500-HDR.jpg",
+                                    "path": null,
+                                    "size": 26.55,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08500-HDR.jpg-e43555646fe0b50e6058516a6d950e58.jpg",
+                                    "hash": "e43555646fe0b50e6058516a6d950e58",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08500-HDR.jpg",
+                                    "path": null,
+                                    "size": 51.7,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08500-HDR.jpg-c63fabe8da99c169bc063ffff06c1ae0.jpg",
+                                    "hash": "c63fabe8da99c169bc063ffff06c1ae0",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08500-HDR.jpg",
+                                    "path": null,
+                                    "size": 267.51,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08500-HDR.jpg-6402248c5d652e91890fc29d64b324cf.jpg",
+                                    "hash": "6402248c5d652e91890fc29d64b324cf",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08500-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.21,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08500-HDR.jpg-db8c4a71953637327765162eecb0028b.jpg",
+                                    "hash": "db8c4a71953637327765162eecb0028b",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08500-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.99,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "259290a5ce8d699ce0793f569c858807",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1931.34,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08500-HDR.jpg-259290a5ce8d699ce0793f569c858807.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:42:36.285Z",
+                            "updatedAt": "2023-03-16T12:42:36.285Z"
+                        }
+                    },
+                    {
+                        "id": 148,
+                        "attributes": {
+                            "name": "DSC08534-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6979,
+                            "height": 4653,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08534-HDR.jpg-4d25d7cb9e76844e7ad3da3ba1b83ccd.jpg",
+                                    "hash": "4d25d7cb9e76844e7ad3da3ba1b83ccd",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08534-HDR.jpg",
+                                    "path": null,
+                                    "size": 82.05,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08534-HDR.jpg-013bfa723073e21063ba4c726c09990a.jpg",
+                                    "hash": "013bfa723073e21063ba4c726c09990a",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08534-HDR.jpg",
+                                    "path": null,
+                                    "size": 24.59,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08534-HDR.jpg-ce9a1c29aaf1b3b48cc3f7a7343af888.jpg",
+                                    "hash": "ce9a1c29aaf1b3b48cc3f7a7343af888",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08534-HDR.jpg",
+                                    "path": null,
+                                    "size": 48.69,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08534-HDR.jpg-24cff1d5208090d7b76f3242ed9b89a3.jpg",
+                                    "hash": "24cff1d5208090d7b76f3242ed9b89a3",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08534-HDR.jpg",
+                                    "path": null,
+                                    "size": 271.03,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08534-HDR.jpg-bc20f0106d2790a5d409ce98749db4e5.jpg",
+                                    "hash": "bc20f0106d2790a5d409ce98749db4e5",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08534-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.16,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08534-HDR.jpg-2d02a89813889cc6943345b6d31bc475.jpg",
+                                    "hash": "2d02a89813889cc6943345b6d31bc475",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08534-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.24,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "7d90b1ba5791c5b630b7bfa2fc448151",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2222.52,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08534-HDR.jpg-7d90b1ba5791c5b630b7bfa2fc448151.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:42:29.877Z",
+                            "updatedAt": "2023-03-16T12:42:29.877Z"
+                        }
+                    },
+                    {
+                        "id": 147,
+                        "attributes": {
+                            "name": "DSC08516-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6967,
+                            "height": 4645,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08516-HDR.jpg-66ec0cfeb5d23a70425494fb0d8a0cd2.jpg",
+                                    "hash": "66ec0cfeb5d23a70425494fb0d8a0cd2",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08516-HDR.jpg",
+                                    "path": null,
+                                    "size": 70.21,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08516-HDR.jpg-cdc6cf62ed9098d4064646f7848e9e37.jpg",
+                                    "hash": "cdc6cf62ed9098d4064646f7848e9e37",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08516-HDR.jpg",
+                                    "path": null,
+                                    "size": 21.78,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08516-HDR.jpg-2e4f515f588518918d42e568b3c32d06.jpg",
+                                    "hash": "2e4f515f588518918d42e568b3c32d06",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08516-HDR.jpg",
+                                    "path": null,
+                                    "size": 42.17,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08516-HDR.jpg-c337d92b20125972430661c6d801c8c7.jpg",
+                                    "hash": "c337d92b20125972430661c6d801c8c7",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08516-HDR.jpg",
+                                    "path": null,
+                                    "size": 230,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08516-HDR.jpg-94a8694b1a746d56dbc72cce97a2fbe2.jpg",
+                                    "hash": "94a8694b1a746d56dbc72cce97a2fbe2",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08516-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.1,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08516-HDR.jpg-fc10b9dd6dec346f116777bcac18302d.jpg",
+                                    "hash": "fc10b9dd6dec346f116777bcac18302d",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08516-HDR.jpg",
+                                    "path": null,
+                                    "size": 6.7,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "e8cc86053c061dd7faf2b5674341879e",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1863.5,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08516-HDR.jpg-e8cc86053c061dd7faf2b5674341879e.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:42:26.424Z",
+                            "updatedAt": "2023-03-16T12:42:26.424Z"
+                        }
+                    },
+                    {
+                        "id": 146,
+                        "attributes": {
+                            "name": "DSC08540-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6976,
+                            "height": 4651,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08540-HDR.jpg-c4812a391d450cdd245307d56dd54f77.jpg",
+                                    "hash": "c4812a391d450cdd245307d56dd54f77",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08540-HDR.jpg",
+                                    "path": null,
+                                    "size": 73.84,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08540-HDR.jpg-d38d8dad910baa1b4042f3d25368eaec.jpg",
+                                    "hash": "d38d8dad910baa1b4042f3d25368eaec",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08540-HDR.jpg",
+                                    "path": null,
+                                    "size": 23.47,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08540-HDR.jpg-99946afba874ecba75c2aa646d2a4482.jpg",
+                                    "hash": "99946afba874ecba75c2aa646d2a4482",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08540-HDR.jpg",
+                                    "path": null,
+                                    "size": 45.07,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08540-HDR.jpg-9eda4b2abf49bffa1371bf3de314d1eb.jpg",
+                                    "hash": "9eda4b2abf49bffa1371bf3de314d1eb",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08540-HDR.jpg",
+                                    "path": null,
+                                    "size": 233.68,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08540-HDR.jpg-8798fc9587ab0fb1bc1ce946d6b17127.jpg",
+                                    "hash": "8798fc9587ab0fb1bc1ce946d6b17127",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08540-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.18,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08540-HDR.jpg-76a47e79840ddba30410f1b48ecdc5b1.jpg",
+                                    "hash": "76a47e79840ddba30410f1b48ecdc5b1",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08540-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.37,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "4d769081336e0b195e057104b36973e3",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1836.99,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08540-HDR.jpg-4d769081336e0b195e057104b36973e3.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:42:26.231Z",
+                            "updatedAt": "2023-03-16T12:42:26.231Z"
+                        }
+                    },
+                    {
+                        "id": 145,
+                        "attributes": {
+                            "name": "DSC08519-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6927,
+                            "height": 4618,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08519-HDR.jpg-aed63dc776f9b842a0f5c21e54b2ed1e.jpg",
+                                    "hash": "aed63dc776f9b842a0f5c21e54b2ed1e",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08519-HDR.jpg",
+                                    "path": null,
+                                    "size": 87.05,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08519-HDR.jpg-990549b2fb7832e422266fc0ddea82fc.jpg",
+                                    "hash": "990549b2fb7832e422266fc0ddea82fc",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08519-HDR.jpg",
+                                    "path": null,
+                                    "size": 26.72,
+                                    "width": 500,
+                                    "height": 334
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08519-HDR.jpg-278df283a3b2c6c0f43c0112083f79f8.jpg",
+                                    "hash": "278df283a3b2c6c0f43c0112083f79f8",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08519-HDR.jpg",
+                                    "path": null,
+                                    "size": 52.05,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08519-HDR.jpg-4e0cb38dd8770b7ae931e96b2ca0a324.jpg",
+                                    "hash": "4e0cb38dd8770b7ae931e96b2ca0a324",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08519-HDR.jpg",
+                                    "path": null,
+                                    "size": 271.67,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08519-HDR.jpg-3deaba986ed2ec92c948cb29ecdf17b6.jpg",
+                                    "hash": "3deaba986ed2ec92c948cb29ecdf17b6",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08519-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.21,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08519-HDR.jpg-bf2c03b4a915de7e6d2bb36404d68078.jpg",
+                                    "hash": "bf2c03b4a915de7e6d2bb36404d68078",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08519-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.88,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "4eebea54bcdda17ae49b1ff1fd57c227",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1874.64,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08519-HDR.jpg-4eebea54bcdda17ae49b1ff1fd57c227.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:42:26.061Z",
+                            "updatedAt": "2023-03-16T12:42:26.061Z"
+                        }
+                    },
+                    {
+                        "id": 144,
+                        "attributes": {
+                            "name": "DSC08497-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6945,
+                            "height": 4630,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08497-HDR.jpg-f5bb5afa4d0176fb85b01b6ef67a73ea.jpg",
+                                    "hash": "f5bb5afa4d0176fb85b01b6ef67a73ea",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08497-HDR.jpg",
+                                    "path": null,
+                                    "size": 63.3,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08497-HDR.jpg-b0ee2b458c3fe4773a9546308b335f89.jpg",
+                                    "hash": "b0ee2b458c3fe4773a9546308b335f89",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08497-HDR.jpg",
+                                    "path": null,
+                                    "size": 21.34,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08497-HDR.jpg-dd7852287be9a63e97f1cb30205aeed9.jpg",
+                                    "hash": "dd7852287be9a63e97f1cb30205aeed9",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08497-HDR.jpg",
+                                    "path": null,
+                                    "size": 39.49,
+                                    "width": 750,
+                                    "height": 499
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08497-HDR.jpg-40f8a54c50222f14f4e3671a972ea6ec.jpg",
+                                    "hash": "40f8a54c50222f14f4e3671a972ea6ec",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08497-HDR.jpg",
+                                    "path": null,
+                                    "size": 188.43,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08497-HDR.jpg-5f403eaef4b33d4ae941b9fb037cf73a.jpg",
+                                    "hash": "5f403eaef4b33d4ae941b9fb037cf73a",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08497-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.13,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08497-HDR.jpg-75212c5c028adcb17455b32d011b7c93.jpg",
+                                    "hash": "75212c5c028adcb17455b32d011b7c93",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08497-HDR.jpg",
+                                    "path": null,
+                                    "size": 6.71,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "e9d6793c7d558cff22e603e1d35f1ff4",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1523.06,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08497-HDR.jpg-e9d6793c7d558cff22e603e1d35f1ff4.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:40:15.154Z",
+                            "updatedAt": "2023-03-16T12:40:15.154Z"
+                        }
+                    },
+                    {
+                        "id": 143,
+                        "attributes": {
+                            "name": "DSC08494-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6981,
+                            "height": 4654,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08494-HDR.jpg-8d1af56bb8c5d5db7f168673f7a1c4d2.jpg",
+                                    "hash": "8d1af56bb8c5d5db7f168673f7a1c4d2",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08494-HDR.jpg",
+                                    "path": null,
+                                    "size": 83.42,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08494-HDR.jpg-53819c95b2501a258d8d86a1160e3e12.jpg",
+                                    "hash": "53819c95b2501a258d8d86a1160e3e12",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08494-HDR.jpg",
+                                    "path": null,
+                                    "size": 27.18,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08494-HDR.jpg-222f5b45a6091f259f45db4fc657eb95.jpg",
+                                    "hash": "222f5b45a6091f259f45db4fc657eb95",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08494-HDR.jpg",
+                                    "path": null,
+                                    "size": 51.58,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08494-HDR.jpg-7752910d85b29070bcdd6b1a831cee5d.jpg",
+                                    "hash": "7752910d85b29070bcdd6b1a831cee5d",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08494-HDR.jpg",
+                                    "path": null,
+                                    "size": 245.18,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08494-HDR.jpg-4ae02da0cd5f0fd33d0f350a772580a8.jpg",
+                                    "hash": "4ae02da0cd5f0fd33d0f350a772580a8",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08494-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.31,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08494-HDR.jpg-aabbb01ddb6185dbbd37df01ec459a00.jpg",
+                                    "hash": "aabbb01ddb6185dbbd37df01ec459a00",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08494-HDR.jpg",
+                                    "path": null,
+                                    "size": 8.35,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "e95d60c0cdbba1a884800943e7705b90",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1776.39,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08494-HDR.jpg-e95d60c0cdbba1a884800943e7705b90.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:39:37.620Z",
+                            "updatedAt": "2023-03-16T12:39:37.620Z"
+                        }
+                    },
+                    {
+                        "id": 142,
+                        "attributes": {
+                            "name": "DSC08488-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6952,
+                            "height": 4635,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08488-HDR.jpg-67318a0e94cb36715db1eb3a123b51a3.jpg",
+                                    "hash": "67318a0e94cb36715db1eb3a123b51a3",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08488-HDR.jpg",
+                                    "path": null,
+                                    "size": 76.94,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08488-HDR.jpg-f281b72ff4073380d657953afbfc6e7a.jpg",
+                                    "hash": "f281b72ff4073380d657953afbfc6e7a",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08488-HDR.jpg",
+                                    "path": null,
+                                    "size": 25.21,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08488-HDR.jpg-da03f4c89aba8ec6f0bca5541871f419.jpg",
+                                    "hash": "da03f4c89aba8ec6f0bca5541871f419",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08488-HDR.jpg",
+                                    "path": null,
+                                    "size": 47.92,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08488-HDR.jpg-3e127e690af0fbda3c307ef6f030d42a.jpg",
+                                    "hash": "3e127e690af0fbda3c307ef6f030d42a",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08488-HDR.jpg",
+                                    "path": null,
+                                    "size": 230.68,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08488-HDR.jpg-0d274c2c64dacf693229b9a252408de5.jpg",
+                                    "hash": "0d274c2c64dacf693229b9a252408de5",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08488-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.29,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08488-HDR.jpg-3f713679fc6c297281e195340d880851.jpg",
+                                    "hash": "3f713679fc6c297281e195340d880851",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08488-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.86,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "ea5b7dc91b4b9be496597ed58583ff57",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1630.99,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08488-HDR.jpg-ea5b7dc91b4b9be496597ed58583ff57.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:39:22.166Z",
+                            "updatedAt": "2023-03-16T12:39:22.166Z"
+                        }
+                    },
+                    {
+                        "id": 141,
+                        "attributes": {
+                            "name": "DSC08482-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6887,
+                            "height": 4591,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08482-HDR.jpg-d21c84e5a62404c25a5e389ee1d75ced.jpg",
+                                    "hash": "d21c84e5a62404c25a5e389ee1d75ced",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08482-HDR.jpg",
+                                    "path": null,
+                                    "size": 70.18,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08482-HDR.jpg-1e24fabee421e659884213597968e164.jpg",
+                                    "hash": "1e24fabee421e659884213597968e164",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08482-HDR.jpg",
+                                    "path": null,
+                                    "size": 23.15,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08482-HDR.jpg-009729d267ee9407910977769d84a84d.jpg",
+                                    "hash": "009729d267ee9407910977769d84a84d",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08482-HDR.jpg",
+                                    "path": null,
+                                    "size": 43.7,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08482-HDR.jpg-6876ebc7be8769ab680e967b22822814.jpg",
+                                    "hash": "6876ebc7be8769ab680e967b22822814",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08482-HDR.jpg",
+                                    "path": null,
+                                    "size": 208.11,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08482-HDR.jpg-5d28c69fdb6f479faacc26e9371f3426.jpg",
+                                    "hash": "5d28c69fdb6f479faacc26e9371f3426",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08482-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.17,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08482-HDR.jpg-0d1692a96112726b7a189a349a3087f9.jpg",
+                                    "hash": "0d1692a96112726b7a189a349a3087f9",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08482-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.32,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "1a57beaea2474829ad98939fdab09115",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1461.77,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08482-HDR.jpg-1a57beaea2474829ad98939fdab09115.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:38:41.579Z",
+                            "updatedAt": "2023-03-16T12:38:41.579Z"
+                        }
+                    },
+                    {
+                        "id": 140,
+                        "attributes": {
+                            "name": "DSC08479-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6972,
+                            "height": 4648,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08479-HDR.jpg-2b48e4f60f4408bdcacfcd2aed98c56d.jpg",
+                                    "hash": "2b48e4f60f4408bdcacfcd2aed98c56d",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08479-HDR.jpg",
+                                    "path": null,
+                                    "size": 75.08,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08479-HDR.jpg-d4d23bfd2b3bda2f667f5215e58889da.jpg",
+                                    "hash": "d4d23bfd2b3bda2f667f5215e58889da",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08479-HDR.jpg",
+                                    "path": null,
+                                    "size": 24.72,
+                                    "width": 500,
+                                    "height": 334
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08479-HDR.jpg-b83366b6ac3db7f6709a78a1a25eb45b.jpg",
+                                    "hash": "b83366b6ac3db7f6709a78a1a25eb45b",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08479-HDR.jpg",
+                                    "path": null,
+                                    "size": 45.95,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08479-HDR.jpg-3772edb16291356e17db2278e700dabc.jpg",
+                                    "hash": "3772edb16291356e17db2278e700dabc",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08479-HDR.jpg",
+                                    "path": null,
+                                    "size": 228.51,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08479-HDR.jpg-a5a03bd4be705e3bb889b0a177b010b3.jpg",
+                                    "hash": "a5a03bd4be705e3bb889b0a177b010b3",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08479-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.25,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08479-HDR.jpg-401e9c89265f4a9aca76ef8c2b98a6d1.jpg",
+                                    "hash": "401e9c89265f4a9aca76ef8c2b98a6d1",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08479-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.62,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "6efb87f074228dda2a32f88845d5c347",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1775.14,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08479-HDR.jpg-6efb87f074228dda2a32f88845d5c347.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:38:04.346Z",
+                            "updatedAt": "2023-03-16T12:38:04.346Z"
+                        }
+                    },
+                    {
+                        "id": 139,
+                        "attributes": {
+                            "name": "DSC08476-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6955,
+                            "height": 4637,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08476-HDR.jpg-d383869ea341810d4652a485f8feae57.jpg",
+                                    "hash": "d383869ea341810d4652a485f8feae57",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08476-HDR.jpg",
+                                    "path": null,
+                                    "size": 76.89,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08476-HDR.jpg-b10a55a6dcc83d710e5e3fb5636986c7.jpg",
+                                    "hash": "b10a55a6dcc83d710e5e3fb5636986c7",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08476-HDR.jpg",
+                                    "path": null,
+                                    "size": 25.41,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08476-HDR.jpg-5805a722c9506f7edb5ff75e678dbd50.jpg",
+                                    "hash": "5805a722c9506f7edb5ff75e678dbd50",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08476-HDR.jpg",
+                                    "path": null,
+                                    "size": 47.75,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08476-HDR.jpg-bddfae9c3571a5e59b63b30b16a3fd2d.jpg",
+                                    "hash": "bddfae9c3571a5e59b63b30b16a3fd2d",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08476-HDR.jpg",
+                                    "path": null,
+                                    "size": 224.24,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08476-HDR.jpg-a6460ccd82a65aaa16d80a0384524252.jpg",
+                                    "hash": "a6460ccd82a65aaa16d80a0384524252",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08476-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.29,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08476-HDR.jpg-d397e49a15fcc4e9878ce322d83d13fc.jpg",
+                                    "hash": "d397e49a15fcc4e9878ce322d83d13fc",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08476-HDR.jpg",
+                                    "path": null,
+                                    "size": 8.16,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "d3df8b67426e6d246d2f2db7410c1abc",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1633.38,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08476-HDR.jpg-d3df8b67426e6d246d2f2db7410c1abc.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:37:48.484Z",
+                            "updatedAt": "2023-03-16T12:37:48.484Z"
+                        }
+                    },
+                    {
+                        "id": 138,
+                        "attributes": {
+                            "name": "DSC08474.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 7008,
+                            "height": 4672,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08474.jpg-53642af4d7a060e470d41313367fce02.jpg",
+                                    "hash": "53642af4d7a060e470d41313367fce02",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08474.jpg",
+                                    "path": null,
+                                    "size": 59.59,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08474.jpg-34c34e85a49ffe17a4d035eb659d1a16.jpg",
+                                    "hash": "34c34e85a49ffe17a4d035eb659d1a16",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08474.jpg",
+                                    "path": null,
+                                    "size": 18.79,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08474.jpg-d63c3e5ff348c46ffb10a13c681a5749.jpg",
+                                    "hash": "d63c3e5ff348c46ffb10a13c681a5749",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08474.jpg",
+                                    "path": null,
+                                    "size": 36.14,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08474.jpg-dd7dcd17909654ab85172c60b972b56b.jpg",
+                                    "hash": "dd7dcd17909654ab85172c60b972b56b",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08474.jpg",
+                                    "path": null,
+                                    "size": 198.44,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08474.jpg-b6ac144beb7c394766091d7d1110de34.jpg",
+                                    "hash": "b6ac144beb7c394766091d7d1110de34",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08474.jpg",
+                                    "path": null,
+                                    "size": 1.02,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08474.jpg-7b04b50d0f0d3c9ddd0c6a86d1b5b55b.jpg",
+                                    "hash": "7b04b50d0f0d3c9ddd0c6a86d1b5b55b",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08474.jpg",
+                                    "path": null,
+                                    "size": 6.02,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "9b474997230aad13ee926f470b1b55f5",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2752.03,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08474.jpg-9b474997230aad13ee926f470b1b55f5.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:37:03.107Z",
+                            "updatedAt": "2023-03-16T12:37:03.107Z"
+                        }
+                    },
+                    {
+                        "id": 137,
+                        "attributes": {
+                            "name": "DSC08473.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 7008,
+                            "height": 4672,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08473.jpg-0e4c967f9d2322b2bfc0d9aafa232006.jpg",
+                                    "hash": "0e4c967f9d2322b2bfc0d9aafa232006",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08473.jpg",
+                                    "path": null,
+                                    "size": 46.92,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08473.jpg-1f0cfc6275a1c85b76b08cd9e151921c.jpg",
+                                    "hash": "1f0cfc6275a1c85b76b08cd9e151921c",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08473.jpg",
+                                    "path": null,
+                                    "size": 16.24,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08473.jpg-af9c2b72b65fc78c385ced680e392d88.jpg",
+                                    "hash": "af9c2b72b65fc78c385ced680e392d88",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08473.jpg",
+                                    "path": null,
+                                    "size": 29.72,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08473.jpg-a61a05ee760cc9eb9085340eb7f69292.jpg",
+                                    "hash": "a61a05ee760cc9eb9085340eb7f69292",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08473.jpg",
+                                    "path": null,
+                                    "size": 151.93,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08473.jpg-8cc56b5c52b8b4cbf7a99fa3743267bf.jpg",
+                                    "hash": "8cc56b5c52b8b4cbf7a99fa3743267bf",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08473.jpg",
+                                    "path": null,
+                                    "size": 1.1,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08473.jpg-8791a5a9f72fde4dea8e2f7abc9e1323.jpg",
+                                    "hash": "8791a5a9f72fde4dea8e2f7abc9e1323",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08473.jpg",
+                                    "path": null,
+                                    "size": 5.57,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "fa315c8aecd2c25257d2d6dd8cd4c6a6",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2361.49,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08473.jpg-fa315c8aecd2c25257d2d6dd8cd4c6a6.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:36:21.426Z",
+                            "updatedAt": "2023-03-16T12:36:21.426Z"
+                        }
+                    },
+                    {
+                        "id": 136,
+                        "attributes": {
+                            "name": "DSC08470-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6982,
+                            "height": 4655,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08470-HDR.jpg-7d6bb1e55eeffda088a692395c800fb0.jpg",
+                                    "hash": "7d6bb1e55eeffda088a692395c800fb0",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08470-HDR.jpg",
+                                    "path": null,
+                                    "size": 72.45,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08470-HDR.jpg-85a94b595b206cd43f7834bb68a5a541.jpg",
+                                    "hash": "85a94b595b206cd43f7834bb68a5a541",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08470-HDR.jpg",
+                                    "path": null,
+                                    "size": 23.4,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08470-HDR.jpg-95c2690890e4bb60c2acb7dd30a3c500.jpg",
+                                    "hash": "95c2690890e4bb60c2acb7dd30a3c500",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08470-HDR.jpg",
+                                    "path": null,
+                                    "size": 44.67,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08470-HDR.jpg-eb7710509060c4319bd718ca85dd50cd.jpg",
+                                    "hash": "eb7710509060c4319bd718ca85dd50cd",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08470-HDR.jpg",
+                                    "path": null,
+                                    "size": 223.01,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08470-HDR.jpg-01cb6268cac53091ff04c029c809d146.jpg",
+                                    "hash": "01cb6268cac53091ff04c029c809d146",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08470-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.26,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08470-HDR.jpg-32ee47895304a3fb41d6b538d829ca46.jpg",
+                                    "hash": "32ee47895304a3fb41d6b538d829ca46",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08470-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.59,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "f4e0125a6d8c6b8bb0a0a26abe032933",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1813.17,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08470-HDR.jpg-f4e0125a6d8c6b8bb0a0a26abe032933.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:36:03.311Z",
+                            "updatedAt": "2023-03-16T12:36:03.311Z"
+                        }
+                    },
+                    {
+                        "id": 135,
+                        "attributes": {
+                            "name": "DSC08467-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6894,
+                            "height": 4596,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08467-HDR.jpg-022826097ab873e8b03610bdb1ba0271.jpg",
+                                    "hash": "022826097ab873e8b03610bdb1ba0271",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08467-HDR.jpg",
+                                    "path": null,
+                                    "size": 36.79,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08467-HDR.jpg-cedf5739b419bcf86d6b7406d7f3b973.jpg",
+                                    "hash": "cedf5739b419bcf86d6b7406d7f3b973",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08467-HDR.jpg",
+                                    "path": null,
+                                    "size": 13.7,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08467-HDR.jpg-c4d8c6ac6dba8ebd91a774a5e9a4408f.jpg",
+                                    "hash": "c4d8c6ac6dba8ebd91a774a5e9a4408f",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08467-HDR.jpg",
+                                    "path": null,
+                                    "size": 24.14,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08467-HDR.jpg-3fe2cebc45c46cf70f4faaa263607537.jpg",
+                                    "hash": "3fe2cebc45c46cf70f4faaa263607537",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08467-HDR.jpg",
+                                    "path": null,
+                                    "size": 107.33,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08467-HDR.jpg-d38c1c49f2bd199c40e9d54987970ee5.jpg",
+                                    "hash": "d38c1c49f2bd199c40e9d54987970ee5",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08467-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.95,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08467-HDR.jpg-94ca18c630c6991c4f1ee055d5a490f3.jpg",
+                                    "hash": "94ca18c630c6991c4f1ee055d5a490f3",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08467-HDR.jpg",
+                                    "path": null,
+                                    "size": 4.95,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "290cfd95ab21f4e1562d2567da30dda3",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 978.96,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08467-HDR.jpg-290cfd95ab21f4e1562d2567da30dda3.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:35:16.851Z",
+                            "updatedAt": "2023-03-16T12:35:16.851Z"
+                        }
+                    },
+                    {
+                        "id": 134,
+                        "attributes": {
+                            "name": "DSC08464-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6796,
+                            "height": 4531,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08464-HDR.jpg-99545364a66ac7f0a1dee32b8e6677ff.jpg",
+                                    "hash": "99545364a66ac7f0a1dee32b8e6677ff",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08464-HDR.jpg",
+                                    "path": null,
+                                    "size": 68.56,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08464-HDR.jpg-7c09528d83f8a6f1c2f2d28a644fb7dd.jpg",
+                                    "hash": "7c09528d83f8a6f1c2f2d28a644fb7dd",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08464-HDR.jpg",
+                                    "path": null,
+                                    "size": 22.08,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08464-HDR.jpg-71deac548634622abcb155186dc4b533.jpg",
+                                    "hash": "71deac548634622abcb155186dc4b533",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08464-HDR.jpg",
+                                    "path": null,
+                                    "size": 41.81,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08464-HDR.jpg-fe74f8aa19cb0882e1944804f343b9a8.jpg",
+                                    "hash": "fe74f8aa19cb0882e1944804f343b9a8",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08464-HDR.jpg",
+                                    "path": null,
+                                    "size": 209.66,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08464-HDR.jpg-37b773d79e6e4ea17634d70481aebc6c.jpg",
+                                    "hash": "37b773d79e6e4ea17634d70481aebc6c",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08464-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.18,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08464-HDR.jpg-c065958682be8168a623debc451e169a.jpg",
+                                    "hash": "c065958682be8168a623debc451e169a",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08464-HDR.jpg",
+                                    "path": null,
+                                    "size": 7.06,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "6610a350da0317841f36ed2a8e47ee9b",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1543.95,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08464-HDR.jpg-6610a350da0317841f36ed2a8e47ee9b.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:35:03.893Z",
+                            "updatedAt": "2023-03-16T12:35:03.893Z"
+                        }
+                    },
+                    {
+                        "id": 133,
+                        "attributes": {
+                            "name": "DSC08458.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 7008,
+                            "height": 4672,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08458.jpg-35c3c829a5b29b0399f855c8fcfedc46.jpg",
+                                    "hash": "35c3c829a5b29b0399f855c8fcfedc46",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08458.jpg",
+                                    "path": null,
+                                    "size": 69.32,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08458.jpg-436fab77dc88420d156525eee04c14e6.jpg",
+                                    "hash": "436fab77dc88420d156525eee04c14e6",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08458.jpg",
+                                    "path": null,
+                                    "size": 17.86,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08458.jpg-12a47c6804660658f7b2059edac87022.jpg",
+                                    "hash": "12a47c6804660658f7b2059edac87022",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08458.jpg",
+                                    "path": null,
+                                    "size": 38.06,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08458.jpg-25902176b9caa06473f8c97134bb00db.jpg",
+                                    "hash": "25902176b9caa06473f8c97134bb00db",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08458.jpg",
+                                    "path": null,
+                                    "size": 287.99,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08458.jpg-08afdb764763735253367882f4e7e8d1.jpg",
+                                    "hash": "08afdb764763735253367882f4e7e8d1",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08458.jpg",
+                                    "path": null,
+                                    "size": 0.95,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08458.jpg-a19c4f7a76169f400c85e1a4aa9c4b15.jpg",
+                                    "hash": "a19c4f7a76169f400c85e1a4aa9c4b15",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08458.jpg",
+                                    "path": null,
+                                    "size": 5.25,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "3b4f1f53052d741663cbd5746425b534",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 3379.13,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08458.jpg-3b4f1f53052d741663cbd5746425b534.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:34:21.529Z",
+                            "updatedAt": "2023-03-16T12:34:21.529Z"
+                        }
+                    },
+                    {
+                        "id": 132,
+                        "attributes": {
+                            "name": "DSC08452-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6981,
+                            "height": 4654,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08452-HDR.jpg-1fe3b7ec83fbea4cb3bcf89a7d4f6774.jpg",
+                                    "hash": "1fe3b7ec83fbea4cb3bcf89a7d4f6774",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08452-HDR.jpg",
+                                    "path": null,
+                                    "size": 59.95,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08452-HDR.jpg-5795d624268f9bb48a99898d3f244432.jpg",
+                                    "hash": "5795d624268f9bb48a99898d3f244432",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08452-HDR.jpg",
+                                    "path": null,
+                                    "size": 17.7,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08452-HDR.jpg-dcebad6214c5110bc797df383e6641ef.jpg",
+                                    "hash": "dcebad6214c5110bc797df383e6641ef",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08452-HDR.jpg",
+                                    "path": null,
+                                    "size": 34.9,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08452-HDR.jpg-65c7164ef5e9359cd049424d3d0c6925.jpg",
+                                    "hash": "65c7164ef5e9359cd049424d3d0c6925",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08452-HDR.jpg",
+                                    "path": null,
+                                    "size": 221.48,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08452-HDR.jpg-d0fc22b401b5315a8836a72e409fea44.jpg",
+                                    "hash": "d0fc22b401b5315a8836a72e409fea44",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08452-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.01,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08452-HDR.jpg-e1fbabd6b02fccea6d3b56d905a7df68.jpg",
+                                    "hash": "e1fbabd6b02fccea6d3b56d905a7df68",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08452-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.53,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "892d1561c170e68e9498d257b8e71a92",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2039.48,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08452-HDR.jpg-892d1561c170e68e9498d257b8e71a92.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:33:38.297Z",
+                            "updatedAt": "2023-03-16T12:33:38.297Z"
+                        }
+                    },
+                    {
+                        "id": 131,
+                        "attributes": {
+                            "name": "DSC08443-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6981,
+                            "height": 4654,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08443-HDR.jpg-89ffc0651baa6b1ece01cc9ac1e4e1e1.jpg",
+                                    "hash": "89ffc0651baa6b1ece01cc9ac1e4e1e1",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08443-HDR.jpg",
+                                    "path": null,
+                                    "size": 57.23,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08443-HDR.jpg-983a3d9a1a3c8a57241c23b2f8de0a1c.jpg",
+                                    "hash": "983a3d9a1a3c8a57241c23b2f8de0a1c",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08443-HDR.jpg",
+                                    "path": null,
+                                    "size": 15.28,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08443-HDR.jpg-b1083e73150ea618f70b37e9edaa60fb.jpg",
+                                    "hash": "b1083e73150ea618f70b37e9edaa60fb",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08443-HDR.jpg",
+                                    "path": null,
+                                    "size": 32.11,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08443-HDR.jpg-c7507417ec10f50d5a2c0930131f00ea.jpg",
+                                    "hash": "c7507417ec10f50d5a2c0930131f00ea",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08443-HDR.jpg",
+                                    "path": null,
+                                    "size": 215.93,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08443-HDR.jpg-24e3bcf7bb465014a3bc40ff01054cd7.jpg",
+                                    "hash": "24e3bcf7bb465014a3bc40ff01054cd7",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08443-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.8,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08443-HDR.jpg-40de5300e1df0ffc018d4c83aa170c43.jpg",
+                                    "hash": "40de5300e1df0ffc018d4c83aa170c43",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08443-HDR.jpg",
+                                    "path": null,
+                                    "size": 4.41,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "13905bf0f354bcb9c6c817669ea9a44b",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1932.2,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08443-HDR.jpg-13905bf0f354bcb9c6c817669ea9a44b.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:33:00.204Z",
+                            "updatedAt": "2023-03-16T12:33:00.204Z"
+                        }
+                    },
+                    {
+                        "id": 130,
+                        "attributes": {
+                            "name": "DSC08437-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6983,
+                            "height": 4655,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08437-HDR.jpg-3ea2bed3b34dfe9350addabe6d3eee63.jpg",
+                                    "hash": "3ea2bed3b34dfe9350addabe6d3eee63",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08437-HDR.jpg",
+                                    "path": null,
+                                    "size": 65.85,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08437-HDR.jpg-4a41ed1d7dee49587a2f9aff72411360.jpg",
+                                    "hash": "4a41ed1d7dee49587a2f9aff72411360",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08437-HDR.jpg",
+                                    "path": null,
+                                    "size": 17.02,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08437-HDR.jpg-2a7b621ec7bebf1406d4660a185a3ed4.jpg",
+                                    "hash": "2a7b621ec7bebf1406d4660a185a3ed4",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08437-HDR.jpg",
+                                    "path": null,
+                                    "size": 36.24,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08437-HDR.jpg-06b15058b08353b41accb387a1707d7e.jpg",
+                                    "hash": "06b15058b08353b41accb387a1707d7e",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08437-HDR.jpg",
+                                    "path": null,
+                                    "size": 252.81,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08437-HDR.jpg-0a2f8662a945b80c57f1832cfe01895d.jpg",
+                                    "hash": "0a2f8662a945b80c57f1832cfe01895d",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08437-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.87,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08437-HDR.jpg-cbe4609f030df3bf57fa439722c68bc0.jpg",
+                                    "hash": "cbe4609f030df3bf57fa439722c68bc0",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08437-HDR.jpg",
+                                    "path": null,
+                                    "size": 4.75,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "7df8a20af331aa7d7bd7f546d2cacd43",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2168.31,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08437-HDR.jpg-7df8a20af331aa7d7bd7f546d2cacd43.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:32:20.440Z",
+                            "updatedAt": "2023-03-16T12:32:20.440Z"
+                        }
+                    },
+                    {
+                        "id": 129,
+                        "attributes": {
+                            "name": "DSC08419-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6977,
+                            "height": 4651,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08419-HDR.jpg-bd16e2b953c9d26f64a81b98b9fb08ce.jpg",
+                                    "hash": "bd16e2b953c9d26f64a81b98b9fb08ce",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08419-HDR.jpg",
+                                    "path": null,
+                                    "size": 67.24,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08419-HDR.jpg-06319bfeea6b3652bc97ffdb83ca48cd.jpg",
+                                    "hash": "06319bfeea6b3652bc97ffdb83ca48cd",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08419-HDR.jpg",
+                                    "path": null,
+                                    "size": 18.43,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08419-HDR.jpg-ac2d18dbded28ecc87ededd4f874eb71.jpg",
+                                    "hash": "ac2d18dbded28ecc87ededd4f874eb71",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08419-HDR.jpg",
+                                    "path": null,
+                                    "size": 37.89,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08419-HDR.jpg-26c6a751b5bfe88f1619cbec4d3157e5.jpg",
+                                    "hash": "26c6a751b5bfe88f1619cbec4d3157e5",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08419-HDR.jpg",
+                                    "path": null,
+                                    "size": 234.53,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08419-HDR.jpg-578e03af509d3286c4c6b68ae47eb11c.jpg",
+                                    "hash": "578e03af509d3286c4c6b68ae47eb11c",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08419-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.96,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08419-HDR.jpg-7742b0e89cc08433ae8c7bbb39aa67de.jpg",
+                                    "hash": "7742b0e89cc08433ae8c7bbb39aa67de",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08419-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.36,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "47a9a8cb7e75d5c135ec376a1cb93270",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1785.58,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08419-HDR.jpg-47a9a8cb7e75d5c135ec376a1cb93270.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:32:03.411Z",
+                            "updatedAt": "2023-03-16T12:32:03.411Z"
+                        }
+                    },
+                    {
+                        "id": 128,
+                        "attributes": {
+                            "name": "DSC08446-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6959,
+                            "height": 4639,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08446-HDR.jpg-2a36d532bf8f6429c3e2685ee5a45a3b.jpg",
+                                    "hash": "2a36d532bf8f6429c3e2685ee5a45a3b",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08446-HDR.jpg",
+                                    "path": null,
+                                    "size": 65.89,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08446-HDR.jpg-e0dfc72250765bc602ee477818cf1400.jpg",
+                                    "hash": "e0dfc72250765bc602ee477818cf1400",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08446-HDR.jpg",
+                                    "path": null,
+                                    "size": 17.71,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08446-HDR.jpg-a4e247f16bf7fde0ad0893b1eee460b9.jpg",
+                                    "hash": "a4e247f16bf7fde0ad0893b1eee460b9",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08446-HDR.jpg",
+                                    "path": null,
+                                    "size": 37.16,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08446-HDR.jpg-8813e240f4c2a9c4cd50ed8a1ebb8189.jpg",
+                                    "hash": "8813e240f4c2a9c4cd50ed8a1ebb8189",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08446-HDR.jpg",
+                                    "path": null,
+                                    "size": 249.93,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08446-HDR.jpg-8ec5e8ca55a59fc0c0045ddeb89b5ce2.jpg",
+                                    "hash": "8ec5e8ca55a59fc0c0045ddeb89b5ce2",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08446-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.97,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08446-HDR.jpg-e12530cdbd91fb9fb49d272d6cfa4794.jpg",
+                                    "hash": "e12530cdbd91fb9fb49d272d6cfa4794",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08446-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.23,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "cffbfc434f3f2fd40e7275b384077ec5",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2225.07,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08446-HDR.jpg-cffbfc434f3f2fd40e7275b384077ec5.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:27:02.118Z",
+                            "updatedAt": "2023-03-16T12:27:02.118Z"
+                        }
+                    },
+                    {
+                        "id": 127,
+                        "attributes": {
+                            "name": "DSC08449-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6979,
+                            "height": 4653,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08449-HDR.jpg-1baf78e91a70039079c99a23a8a454af.jpg",
+                                    "hash": "1baf78e91a70039079c99a23a8a454af",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08449-HDR.jpg",
+                                    "path": null,
+                                    "size": 65.55,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08449-HDR.jpg-ddc0a4a44bfe6b880cd2233b381971bc.jpg",
+                                    "hash": "ddc0a4a44bfe6b880cd2233b381971bc",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08449-HDR.jpg",
+                                    "path": null,
+                                    "size": 17.93,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08449-HDR.jpg-ff102e069036aa0a941e5353fd15f7ba.jpg",
+                                    "hash": "ff102e069036aa0a941e5353fd15f7ba",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08449-HDR.jpg",
+                                    "path": null,
+                                    "size": 37.03,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08449-HDR.jpg-3a6e589cdc7e4cb706bf16588e9791c2.jpg",
+                                    "hash": "3a6e589cdc7e4cb706bf16588e9791c2",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08449-HDR.jpg",
+                                    "path": null,
+                                    "size": 248.46,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08449-HDR.jpg-796fb850aeee9f8564e6d36fd5abe3bc.jpg",
+                                    "hash": "796fb850aeee9f8564e6d36fd5abe3bc",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08449-HDR.jpg",
+                                    "path": null,
+                                    "size": 1,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08449-HDR.jpg-a3d78a74065aaa607a494d11634b3ca3.jpg",
+                                    "hash": "a3d78a74065aaa607a494d11634b3ca3",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08449-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.44,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "bbc90bc1535b6be4fb19cd59432845ec",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2179.17,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08449-HDR.jpg-bbc90bc1535b6be4fb19cd59432845ec.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:27:02.102Z",
+                            "updatedAt": "2023-03-16T12:27:02.102Z"
+                        }
+                    },
+                    {
+                        "id": 125,
+                        "attributes": {
+                            "name": "DSC08422-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6985,
+                            "height": 4657,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08422-HDR.jpg-0404e35f7573e8595cddd61a98098d5c.jpg",
+                                    "hash": "0404e35f7573e8595cddd61a98098d5c",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08422-HDR.jpg",
+                                    "path": null,
+                                    "size": 62.91,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08422-HDR.jpg-c601934f223e580238b2e8a6640c908f.jpg",
+                                    "hash": "c601934f223e580238b2e8a6640c908f",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08422-HDR.jpg",
+                                    "path": null,
+                                    "size": 17.25,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08422-HDR.jpg-2792ded8d34ef158cd1b7ae01a86343d.jpg",
+                                    "hash": "2792ded8d34ef158cd1b7ae01a86343d",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08422-HDR.jpg",
+                                    "path": null,
+                                    "size": 35.92,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08422-HDR.jpg-1793b2348ec7156898760a9bac7fd202.jpg",
+                                    "hash": "1793b2348ec7156898760a9bac7fd202",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08422-HDR.jpg",
+                                    "path": null,
+                                    "size": 225.17,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08422-HDR.jpg-506375b90aa6a46fd0098c6c2375f3ae.jpg",
+                                    "hash": "506375b90aa6a46fd0098c6c2375f3ae",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08422-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.95,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08422-HDR.jpg-bda23dedf9bde7162a995d46de86c2f4.jpg",
+                                    "hash": "bda23dedf9bde7162a995d46de86c2f4",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08422-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.19,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "e7ddbab933a6c1954940372a3f8e66e3",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1814.86,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08422-HDR.jpg-e7ddbab933a6c1954940372a3f8e66e3.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:26:51.993Z",
+                            "updatedAt": "2023-03-16T12:26:51.993Z"
+                        }
+                    },
+                    {
+                        "id": 126,
+                        "attributes": {
+                            "name": "DSC08440-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6981,
+                            "height": 4654,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08440-HDR.jpg-5c85780aef238ee7c46db267900708d6.jpg",
+                                    "hash": "5c85780aef238ee7c46db267900708d6",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08440-HDR.jpg",
+                                    "path": null,
+                                    "size": 60.06,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08440-HDR.jpg-593c5282e4675afb60c36acc75bb878c.jpg",
+                                    "hash": "593c5282e4675afb60c36acc75bb878c",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08440-HDR.jpg",
+                                    "path": null,
+                                    "size": 16.5,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08440-HDR.jpg-d8b4b52e6488b2c96f9c9b2a1e134ef4.jpg",
+                                    "hash": "d8b4b52e6488b2c96f9c9b2a1e134ef4",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08440-HDR.jpg",
+                                    "path": null,
+                                    "size": 34.04,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08440-HDR.jpg-235b1492fec6033159a0a16eb17ef982.jpg",
+                                    "hash": "235b1492fec6033159a0a16eb17ef982",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08440-HDR.jpg",
+                                    "path": null,
+                                    "size": 232.37,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08440-HDR.jpg-64e826f39c1476720f575d7461521273.jpg",
+                                    "hash": "64e826f39c1476720f575d7461521273",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08440-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.91,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08440-HDR.jpg-6cda6d488335d5163552e7dc478924ca.jpg",
+                                    "hash": "6cda6d488335d5163552e7dc478924ca",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08440-HDR.jpg",
+                                    "path": null,
+                                    "size": 5.01,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "6a97650859965635f55ec38546b70252",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 2206.12,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08440-HDR.jpg-6a97650859965635f55ec38546b70252.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:26:54.689Z",
+                            "updatedAt": "2023-03-16T12:26:54.689Z"
+                        }
+                    },
+                    {
+                        "id": 124,
+                        "attributes": {
+                            "name": "DSC08425-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6983,
+                            "height": 4655,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08425-HDR.jpg-1a5c40be556d2c9bede02401ea6563ed.jpg",
+                                    "hash": "1a5c40be556d2c9bede02401ea6563ed",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08425-HDR.jpg",
+                                    "path": null,
+                                    "size": 60.76,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08425-HDR.jpg-b58c4a95e97cb40b352349848fc6ba1b.jpg",
+                                    "hash": "b58c4a95e97cb40b352349848fc6ba1b",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08425-HDR.jpg",
+                                    "path": null,
+                                    "size": 16.68,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08425-HDR.jpg-f9f60aaeb90494554cd42115ba98b404.jpg",
+                                    "hash": "f9f60aaeb90494554cd42115ba98b404",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08425-HDR.jpg",
+                                    "path": null,
+                                    "size": 34.74,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08425-HDR.jpg-9d8d455e8cf0217f179fe33a426ba6ce.jpg",
+                                    "hash": "9d8d455e8cf0217f179fe33a426ba6ce",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08425-HDR.jpg",
+                                    "path": null,
+                                    "size": 213.52,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08425-HDR.jpg-fd3de30b59ec3cb5b81a76a311cbe6af.jpg",
+                                    "hash": "fd3de30b59ec3cb5b81a76a311cbe6af",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08425-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.9,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08425-HDR.jpg-2ca7be273dc5d454258481eb4e7dd17c.jpg",
+                                    "hash": "2ca7be273dc5d454258481eb4e7dd17c",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08425-HDR.jpg",
+                                    "path": null,
+                                    "size": 4.94,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "d4add9942f010ffbd4b0313f19995f31",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1685.62,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08425-HDR.jpg-d4add9942f010ffbd4b0313f19995f31.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:26:50.738Z",
+                            "updatedAt": "2023-03-16T12:26:50.738Z"
+                        }
+                    },
+                    {
+                        "id": 123,
+                        "attributes": {
+                            "name": "DSC08428-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6969,
+                            "height": 4646,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08428-HDR.jpg-ce675880566c6d2639e1dc8d0e6f4525.jpg",
+                                    "hash": "ce675880566c6d2639e1dc8d0e6f4525",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08428-HDR.jpg",
+                                    "path": null,
+                                    "size": 61.71,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08428-HDR.jpg-5fc80a8e664a5f7ced9a94fed7f1e965.jpg",
+                                    "hash": "5fc80a8e664a5f7ced9a94fed7f1e965",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08428-HDR.jpg",
+                                    "path": null,
+                                    "size": 16.9,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08428-HDR.jpg-6cea0cce4f795a4c021430e1b3405faa.jpg",
+                                    "hash": "6cea0cce4f795a4c021430e1b3405faa",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08428-HDR.jpg",
+                                    "path": null,
+                                    "size": 35.12,
+                                    "width": 750,
+                                    "height": 499
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08428-HDR.jpg-e0cf5518c2edf32d7a7c201830f49051.jpg",
+                                    "hash": "e0cf5518c2edf32d7a7c201830f49051",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08428-HDR.jpg",
+                                    "path": null,
+                                    "size": 216.95,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08428-HDR.jpg-8bf7870c6d81731db52378451dde2d2a.jpg",
+                                    "hash": "8bf7870c6d81731db52378451dde2d2a",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08428-HDR.jpg",
+                                    "path": null,
+                                    "size": 0.89,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08428-HDR.jpg-f5d6e86c3cee92c4725fffdb0b089335.jpg",
+                                    "hash": "f5d6e86c3cee92c4725fffdb0b089335",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08428-HDR.jpg",
+                                    "path": null,
+                                    "size": 4.88,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "ac67a995db197aa834a935a9c2daf323",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1684.86,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08428-HDR.jpg-ac67a995db197aa834a935a9c2daf323.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:26:50.336Z",
+                            "updatedAt": "2023-03-16T12:26:50.336Z"
+                        }
+                    },
+                    {
+                        "id": 122,
+                        "attributes": {
+                            "name": "DSC08431-HDR.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6986,
+                            "height": 4657,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08431-HDR.jpg-1cc540abf43181658c27fb6ca8b7cc9f.jpg",
+                                    "hash": "1cc540abf43181658c27fb6ca8b7cc9f",
+                                    "mime": "image/jpeg",
+                                    "name": "large_DSC08431-HDR.jpg",
+                                    "path": null,
+                                    "size": 59.36,
+                                    "width": 1000,
+                                    "height": 667
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08431-HDR.jpg-74494a45f1f86049cb4386aeffd7f691.jpg",
+                                    "hash": "74494a45f1f86049cb4386aeffd7f691",
+                                    "mime": "image/jpeg",
+                                    "name": "small_DSC08431-HDR.jpg",
+                                    "path": null,
+                                    "size": 20.81,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08431-HDR.jpg-eb2dca740264eaabd7e1fcad59198274.jpg",
+                                    "hash": "eb2dca740264eaabd7e1fcad59198274",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_DSC08431-HDR.jpg",
+                                    "path": null,
+                                    "size": 38.29,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08431-HDR.jpg-8e7509e0cb538cf81b70eb7ea5f770a8.jpg",
+                                    "hash": "8e7509e0cb538cf81b70eb7ea5f770a8",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_DSC08431-HDR.jpg",
+                                    "path": null,
+                                    "size": 164.91,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08431-HDR.jpg-3569a981295a6446954764728d9c3fa4.jpg",
+                                    "hash": "3569a981295a6446954764728d9c3fa4",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_DSC08431-HDR.jpg",
+                                    "path": null,
+                                    "size": 1.15,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08431-HDR.jpg-bbcf130c3eaf4ba5d09bfc6ab942c0af.jpg",
+                                    "hash": "bbcf130c3eaf4ba5d09bfc6ab942c0af",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_DSC08431-HDR.jpg",
+                                    "path": null,
+                                    "size": 6.86,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "1e5550168de0e01bb6a7ed2fe39f0f8e",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 1269.8,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08431-HDR.jpg-1e5550168de0e01bb6a7ed2fe39f0f8e.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-16T12:26:47.970Z",
+                            "updatedAt": "2023-03-16T12:26:47.970Z"
+                        }
+                    },
+                    {
+                        "id": 20,
+                        "attributes": {
+                            "name": "1568-front.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 6958,
+                            "height": 4639,
+                            "formats": {
+                                "large": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_1568-front.jpg-a3f931825a6f3373eafc24bb73161fee.jpg",
+                                    "hash": "a3f931825a6f3373eafc24bb73161fee",
+                                    "mime": "image/jpeg",
+                                    "name": "large_1568-front.jpg",
+                                    "path": null,
+                                    "size": 128.97,
+                                    "width": 1000,
+                                    "height": 666
+                                },
+                                "small": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_1568-front.jpg-dd6de16713861208b1bae7be89052ceb.jpg",
+                                    "hash": "dd6de16713861208b1bae7be89052ceb",
+                                    "mime": "image/jpeg",
+                                    "name": "small_1568-front.jpg",
+                                    "path": null,
+                                    "size": 34.52,
+                                    "width": 500,
+                                    "height": 333
+                                },
+                                "medium": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_1568-front.jpg-7e1068e4fb1a9f4ce43cb763dfbea99b.jpg",
+                                    "hash": "7e1068e4fb1a9f4ce43cb763dfbea99b",
+                                    "mime": "image/jpeg",
+                                    "name": "medium_1568-front.jpg",
+                                    "path": null,
+                                    "size": 72.96,
+                                    "width": 750,
+                                    "height": 500
+                                },
+                                "xlarge": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_1568-front.jpg-8f1978898994fdb07e94ad20f488cf25.jpg",
+                                    "hash": "8f1978898994fdb07e94ad20f488cf25",
+                                    "mime": "image/jpeg",
+                                    "name": "xlarge_1568-front.jpg",
+                                    "path": null,
+                                    "size": 459.85,
+                                    "width": 1920,
+                                    "height": 1280
+                                },
+                                "xsmall": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_1568-front.jpg-96e3d597b4ebdc126a9b2039594bcb63.jpg",
+                                    "hash": "96e3d597b4ebdc126a9b2039594bcb63",
+                                    "mime": "image/jpeg",
+                                    "name": "xsmall_1568-front.jpg",
+                                    "path": null,
+                                    "size": 1.25,
+                                    "width": 64,
+                                    "height": 43
+                                },
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_1568-front.jpg-6a59b0756e03fae2b3984400f2df35d1.jpg",
+                                    "hash": "6a59b0756e03fae2b3984400f2df35d1",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_1568-front.jpg",
+                                    "path": null,
+                                    "size": 9.31,
+                                    "width": 234,
+                                    "height": 156
+                                }
+                            },
+                            "hash": "de7a682a06c5bd161959240ff2d45733",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 3438.36,
+                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/1568-front.jpg-de7a682a06c5bd161959240ff2d45733.jpg",
+                            "previewUrl": null,
+                            "provider": "strapi-provider-upload-supabase",
+                            "provider_metadata": null,
+                            "createdAt": "2023-03-12T01:54:44.694Z",
+                            "updatedAt": "2023-03-12T01:54:44.694Z"
+                        }
+                    }
+                ]
+            },
+            "floorPlan": {
+                "data": {
+                    "id": 28,
+                    "attributes": {
+                        "name": "1568 SF Split Ranch.pdf",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": null,
+                        "height": null,
+                        "formats": null,
+                        "hash": "1574d3672eca14b9b98c1ae9f2147aa0",
+                        "ext": ".pdf",
+                        "mime": "application/pdf",
+                        "size": 630.96,
+                        "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/1568 SF Split Ranch.pdf-1574d3672eca14b9b98c1ae9f2147aa0.pdf",
+                        "previewUrl": null,
+                        "provider": "strapi-provider-upload-supabase",
+                        "provider_metadata": null,
+                        "createdAt": "2023-03-12T02:52:20.689Z",
+                        "updatedAt": "2023-03-12T05:30:46.353Z"
+                    }
+                }
+            }
+        }
+    },
+    "meta": {}
+}

@@ -1,0 +1,32 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - '**.md'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 🛎
+        uses: actions/checkout@v3
+
+      - name: Setup Node 💿
+        uses: actions/setup-node@v3
+        with:
+          node-version: latest
+          cache: 'npm'
+
+      - name: Install Dependencies 📦
+        run: npm ci
+
+      - name: Build 🛠
+        run: npm run build
+
+      - name: Export ✈️
+        run: npm run export

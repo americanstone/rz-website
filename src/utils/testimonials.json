@@ -1,0 +1,13 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "pageBody": "<h1>Testimonials</h1><p>We are Stark County’s premier custom home builder, but don’t take our word for it. See what our customers say about us!</p>",
+            "title": "Testimonials",
+            "createdAt": "2023-01-05T21:55:58.934Z",
+            "updatedAt": "2023-03-12T02:26:25.683Z",
+            "publishedAt": "2023-01-05T21:56:01.426Z"
+        }
+    },
+    "meta": {}
+}

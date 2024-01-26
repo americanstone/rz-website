@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "attributes": {
+                "text": "We are very pleased with our experience working with Williams Custom Homes. Everyone is very nice to work with and no question is too trivial. We were always able to contact someone when we had a question and generally had an answer within 1-2 days. Overall they are a very professional team and have provided us with a WONDERFUL new home. I would recommend them to anyone!!",
+                "name": "Jo Anne & Doug D.",
+                "location": "Massillon, OH",
+                "order": 100,
+                "createdAt": "2023-01-05T22:02:42.344Z",
+                "updatedAt": "2023-01-05T22:02:52.061Z",
+                "publishedAt": "2023-01-05T22:02:51.979Z"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "text": "My wife and I want you to know that the tile looks great and we are pleased with the way that the house has gone so far. I would highly recommend your group to build a house to anyone who ask me in the future. I was thinking, I might even build again in the future. Ten to fifteen years from now, who knows. But thanks for everything so far and I just wanted to let you know it has been great being involved in the process with you guys.",
+                "name": "Dave and Donna Wendell",
+                "location": "Perry Township, OH",
+                "order": 200,
+                "createdAt": "2023-02-13T23:47:04.773Z",
+                "updatedAt": "2023-02-13T23:47:06.289Z",
+                "publishedAt": "2023-02-13T23:47:06.280Z"
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "text": "This was my first new home. Williams Custom Homes helped guide me through the entire home buying/building process. I was able to make any necessary changes with no problem. Williams Custom Homes was readily available for any questions or concerns that I had.\n",
+                "name": "Ray S.",
+                "location": "Massillon, OH",
+                "order": 250,
+                "createdAt": "2023-03-12T02:24:35.242Z",
+                "updatedAt": "2023-03-12T02:25:14.078Z",
+                "publishedAt": "2023-03-12T02:24:36.813Z"
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "text": "My wife and I are extremely happy with the experience we had with Williams Custom Homes. We are truly amazed at the honesty and quality of the workmanship of the Williams family, and most of all we appreciate the opportunity to become good friends with the Williams family. I might add that all of the subcontractors involved in the construction of our home showed superior craftsmanship, and in this day and age of unscrupulous salesmanship we feel that we are extremely fortunate to have contracted with Williams Custom Homes, a real class organization.",
+                "name": "Richard and Julia Hammerly",
+                "location": "Massillon, OH",
+                "order": 300,
+                "createdAt": "2023-02-13T23:47:31.410Z",
+                "updatedAt": "2023-02-13T23:47:33.953Z",
+                "publishedAt": "2023-02-13T23:47:33.946Z"
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "text": "Prior to having my house built, I looked at other builders' homes and became convinced that I would get better quality and value for my money with Williams Custom Homes. To this day, I remain convinced that my decision was the right one. They were always very responsive to my questions and concerns, and displayed immense integrity throughout.",
+                "name": "Teresa Flickinger",
+                "location": "Massillon, OH",
+                "order": 400,
+                "createdAt": "2023-02-13T23:48:38.961Z",
+                "updatedAt": "2023-02-13T23:48:46.956Z",
+                "publishedAt": "2023-02-13T23:48:39.965Z"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 5
+        }
+    }
+}

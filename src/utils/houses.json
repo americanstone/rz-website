@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "id": 3,
+            "attributes": {
+                "bedrooms": 3,
+                "halfBathrooms": 1,
+                "squareFeet": 1700,
+                "createdAt": "2023-03-14T15:46:38.969Z",
+                "updatedAt": "2023-03-16T01:59:43.245Z",
+                "publishedAt": "2023-03-14T16:05:14.954Z",
+                "fullBathrooms": 2,
+                "title": "1,700 SF Farmhouse 2-Story - Open First Floor and a 2nd Floor Laundry",
+                "description": "",
+                "virtualTourLink": "https://www.zillow.com/view-3d-home/88684b95-4afa-49e9-9448-bf2442899945"
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "bedrooms": 3,
+                "halfBathrooms": 0,
+                "squareFeet": 1583,
+                "createdAt": "2023-03-14T16:18:16.748Z",
+                "updatedAt": "2023-03-16T02:03:01.377Z",
+                "publishedAt": "2023-03-14T16:18:18.144Z",
+                "fullBathrooms": 2,
+                "title": "1,583 SF Cottage-Style Ranch",
+                "description": "<p>Split bedroom plan with first floor laundry - open floor plan. Also available as a 1,407 SF plan.</p>",
+                "virtualTourLink": null
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "bedrooms": 3,
+                "halfBathrooms": 0,
+                "squareFeet": 1520,
+                "createdAt": "2023-03-14T16:04:50.883Z",
+                "updatedAt": "2023-03-16T02:55:25.335Z",
+                "publishedAt": "2023-03-14T16:07:15.269Z",
+                "fullBathrooms": 2,
+                "title": "1,520 SF Open Ranch Plan with Large Covered Back Porch",
+                "description": "<p>Also available as a 1,750 SF plan with 2-½ car garage and sun room.&nbsp;</p>",
+                "virtualTourLink": null
+            }
+        },
+        {
+            "id": 1,
+            "attributes": {
+                "bedrooms": 3,
+                "halfBathrooms": 0,
+                "squareFeet": 1549,
+                "createdAt": "2023-01-05T22:01:54.912Z",
+                "updatedAt": "2023-03-16T03:33:15.326Z",
+                "publishedAt": "2023-01-05T22:01:58.967Z",
+                "fullBathrooms": 2,
+                "title": "1,549 SF Split Bedroom Ranch Home with Covered Back Porch",
+                "description": "",
+                "virtualTourLink": "https://www.zillow.com/view-3d-home/2878285e-a787-4254-bb19-923ca833f689"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "bedrooms": 3,
+                "halfBathrooms": 0,
+                "squareFeet": 1568,
+                "createdAt": "2023-03-12T01:47:01.901Z",
+                "updatedAt": "2023-03-16T12:51:36.215Z",
+                "publishedAt": "2023-03-12T01:47:15.388Z",
+                "fullBathrooms": 2,
+                "title": "1,568 SF Split Ranch Farmhouse",
+                "description": "<p>Unique split bedroom design with 9-foot ceilings and beamed vaulted ceilings in great room and master bedroom.</p>",
+                "virtualTourLink": "https://www.zillow.com/view-3d-home/51a43b12-ff4f-40a9-8f73-96602b9ed179"
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "bedrooms": 3,
+                "halfBathrooms": 1,
+                "squareFeet": 2304,
+                "createdAt": "2023-03-16T13:00:44.830Z",
+                "updatedAt": "2023-03-17T00:13:35.606Z",
+                "publishedAt": "2023-03-17T00:11:37.226Z",
+                "fullBathrooms": 2,
+                "title": "2,304 SF 2-Story with 3-car garage, large mud area/drop zone, huge kitchen and first floor office.",
+                "description": "",
+                "virtualTourLink": "https://www.zillow.com/view-3d-home/b7aa4462-6361-4215-b7e8-c4fea104cd38?utm_source=dashboard"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 6
+        }
+    }
+}

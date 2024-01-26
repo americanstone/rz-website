@@ -1,0 +1,114 @@
+{
+    "data": {
+        "id": 3,
+        "attributes": {
+            "bedrooms": 3,
+            "halfBathrooms": 1,
+            "squareFeet": 1700,
+            "createdAt": "2023-03-14T15:46:38.969Z",
+            "updatedAt": "2023-03-16T01:59:43.245Z",
+            "publishedAt": "2023-03-14T16:05:14.954Z",
+            "fullBathrooms": 2,
+            "title": "1,700 SF Farmhouse 2-Story - Open First Floor and a 2nd Floor Laundry",
+            "description": "",
+            "virtualTourLink": "https://www.zillow.com/view-3d-home/88684b95-4afa-49e9-9448-bf2442899945",
+            "thumbnail": {
+                "data": {
+                    "id": 30,
+                    "attributes": {
+                        "name": "1700-front.jpg",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 4032,
+                        "height": 3024,
+                        "formats": {
+                            "large": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_1700-front.jpg-15e7952df2745e9ae1daf2e596a05c44.jpg",
+                                "hash": "15e7952df2745e9ae1daf2e596a05c44",
+                                "mime": "image/jpeg",
+                                "name": "large_1700-front.jpg",
+                                "path": null,
+                                "size": 106.05,
+                                "width": 1000,
+                                "height": 750
+                            },
+                            "small": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_1700-front.jpg-893feaa83427c36d741a465bf16201e2.jpg",
+                                "hash": "893feaa83427c36d741a465bf16201e2",
+                                "mime": "image/jpeg",
+                                "name": "small_1700-front.jpg",
+                                "path": null,
+                                "size": 29.95,
+                                "width": 500,
+                                "height": 375
+                            },
+                            "medium": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_1700-front.jpg-fe305cbeff022d8b5fc3547c0f2b48f3.jpg",
+                                "hash": "fe305cbeff022d8b5fc3547c0f2b48f3",
+                                "mime": "image/jpeg",
+                                "name": "medium_1700-front.jpg",
+                                "path": null,
+                                "size": 61.57,
+                                "width": 750,
+                                "height": 563
+                            },
+                            "xlarge": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_1700-front.jpg-861d1a8c404ef249c535cb17da59079e.jpg",
+                                "hash": "861d1a8c404ef249c535cb17da59079e",
+                                "mime": "image/jpeg",
+                                "name": "xlarge_1700-front.jpg",
+                                "path": null,
+                                "size": 339.66,
+                                "width": 1920,
+                                "height": 1440
+                            },
+                            "xsmall": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_1700-front.jpg-471a382162434fb94c0542beeed634cb.jpg",
+                                "hash": "471a382162434fb94c0542beeed634cb",
+                                "mime": "image/jpeg",
+                                "name": "xsmall_1700-front.jpg",
+                                "path": null,
+                                "size": 1.28,
+                                "width": 64,
+                                "height": 48
+                            },
+                            "thumbnail": {
+                                "ext": ".jpg",
+                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_1700-front.jpg-e391d2a69df016d1c19a3d4201cccf80.jpg",
+                                "hash": "e391d2a69df016d1c19a3d4201cccf80",
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_1700-front.jpg",
+                                "path": null,
+                                "size": 6.9,
+                                "width": 208,
+                                "height": 156
+                            }
+                        },
+                        "hash": "5a098da66a56bf3c59f9f1f8f04f0e60",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 633.61,
+                        "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/1700-front.jpg-5a098da66a56bf3c59f9f1f8f04f0e60.jpg",
+                        "previewUrl": null,
+                        "provider": "strapi-provider-upload-supabase",
+                        "provider_metadata": null,
+                        "createdAt": "2023-03-14T15:45:56.446Z",
+                        "updatedAt": "2023-03-14T15:45:56.446Z"
+                    }
+                }
+            },
+            "photos": {
+                "data": null
+            },
+            "floorPlan": {
+                "data": null
+            }
+        }
+    },
+    "meta": {}
+}

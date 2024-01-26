@@ -1,0 +1,114 @@
+{
+    "data": {
+        "id": 1,
+        "attributes": {
+            "heroText": "We do electrical work in and around Los Angeles, California.",
+            "primaryCallToActionButtonText": "Let's Discuss Your Dream Home",
+            "primaryCallToActionButtonLink": "/contact",
+            "secondaryCallToActionButtonText": "About Us",
+            "secondaryCallToActionButtonLink": "/about",
+            "pageBody": "<h1>Your Electrician</h1><p>The RZ family has been Electrician in and around  Los Angeles for <strong>over 10 years</strong>. When you build with us, you get service and quality you can trust.</p><p>We specialize in single-story living, and building homes above and beyond the building code <i><strong>on your lot or on one of ours</strong></i> at a price that fits your budget.</p><p><strong>Give us a call or send us a message today!</strong></p>",
+            "contactFormHeading": "Request a Free Consultation",
+            "featuredTestimonialsHeading": "See what our customers are saying",
+            "createdAt": "2023-01-05T17:14:38.332Z",
+            "updatedAt": "2023-03-17T01:32:27.628Z",
+            "publishedAt": "2023-01-05T17:14:41.099Z",
+            "heroImage": {
+                "data": {
+                    "id": 11,
+                    "attributes": {
+                        "name": "site-image.jpg",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 1024,
+                        "height": 768,
+                        "formats": {
+                            "large": {
+                                "ext": "png",
+                                "url": "background.png",
+                                "hash": "412d1f888081fbd796df74a42b039f45",
+                                "mime": "image/jpeg",
+                                "name": "large_site-image.jpg",
+                                "path": null,
+                                "size": 109.11,
+                                "width": 1000,
+                                "height": 750
+                            },
+                            "small": {
+                                "ext": "png",
+                                "url": "background.png",
+                                "hash": "76955dd8781b279315a3d933e11b68e2",
+                                "mime": "image/jpeg",
+                                "name": "small_site-image.jpg",
+                                "path": null,
+                                "size": 32.27,
+                                "width": 500,
+                                "height": 375
+                            },
+                            "medium": {
+                                "ext": "png",
+                                "url": "background.png",
+                                "hash": "e88b4a486fe8c638aab0ef51c6c82625",
+                                "mime": "image/jpeg",
+                                "name": "medium_site-image.jpg",
+                                "path": null,
+                                "size": 67.31,
+                                "width": 750,
+                                "height": 563
+                            },
+                            "xsmall": {
+                                "ext": "png",
+                                "url": "background.png",
+                                "hash": "aa98ee58eb7238dcdad29f40b5152a71",
+                                "mime": "image/jpeg",
+                                "name": "xsmall_site-image.jpg",
+                                "path": null,
+                                "size": 1.19,
+                                "width": 64,
+                                "height": 48
+                            },
+                            "thumbnail": {
+                                "ext": "png",
+                                "url": "background.png",
+                                "hash": "63ca990efec94b34b4f78ae742a7cfcc",
+                                "mime": "image/jpeg",
+                                "name": "thumbnail_site-image.jpg",
+                                "path": null,
+                                "size": 6.69,
+                                "width": 208,
+                                "height": 156
+                            }
+                        },
+                        "hash": "daf732184977b3d8cc70db4497af24ec",
+                        "mime": "image/png",
+                        "size": 99.5,
+                        "ext": "png",
+                        "url": "background.png",
+                        "previewUrl": null,
+                        "provider": "strapi-provider-upload-supabase",
+                        "provider_metadata": null,
+                        "createdAt": "2023-01-15T22:41:44.025Z",
+                        "updatedAt": "2023-01-15T22:41:44.025Z"
+                    }
+                }
+            },
+            "featuredTestimonials": {
+                "data": [
+                    {
+                        "id": 1,
+                        "attributes": {
+                            "text": "We are very pleased with our experience working with Williams Custom Homes. Everyone is very nice to work with and no question is too trivial. We were always able to contact someone when we had a question and generally had an answer within 1-2 days. Overall they are a very professional team and have provided us with a WONDERFUL new home. I would recommend them to anyone!!",
+                            "name": "Jo Anne & Doug D.",
+                            "location": "Massillon, OH",
+                            "order": 100,
+                            "createdAt": "2023-01-05T22:02:42.344Z",
+                            "updatedAt": "2023-01-05T22:02:52.061Z",
+                            "publishedAt": "2023-01-05T22:02:51.979Z"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "meta": {}
+}
