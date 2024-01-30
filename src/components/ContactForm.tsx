@@ -9,8 +9,10 @@ import {
 } from '@chakra-ui/react'
 import { useForm, ValidationError } from '@formspree/react'
 import { ReactNode } from 'react'
+import { useRef } from 'react'
 import SiteInformation from '../types/CmsSingleTypes/siteInformation'
 import PhoneNumberInput from './PhoneNumberInput'
+import emailjs from 'emailjs-com';
 
 type Props = {
 	siteInfo: SiteInformation
@@ -23,6 +25,17 @@ const ContactForm = ({
 	formHeading,
 	shouldHaveNegativeTopMargin,
 }: Props) => {
+	const form : any = useRef();
+	const sendEmail = (e :any) =>  {
+		e.preventDefault();
+		emailjs.sendForm('service_kwwglih', 'template_vd4cfv6', form.current, "9JJ-cjgSV04Mob4xM")
+		  .then((result) => {
+			  console.log(result.text);
+		  }, (error) => {
+			  console.log(error.text);
+		  });
+	  }
+
 	const [state, handleSubmit] = useForm(siteInfo.formspreeContactFormId)
 
 	const emailRegex =
@@ -55,7 +68,7 @@ const ContactForm = ({
 	}
 
 	return box(
-		<form onSubmit={handleSubmit}>
+		<form ref={form} className="gform" onSubmit={sendEmail}>
 			<VStack spacing={'1rem'}>
 				{formHeading && (
 					<Heading fontSize={'1.5rem'} textAlign={'center'} fontWeight={'bold'}>
