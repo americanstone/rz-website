@@ -54,7 +54,7 @@ const HouseCard = ({ house }: Props) => {
 					fontSize={'1.1rem'}
 					spacing={shouldHave2Columns ? '2rem' : 0}
 					justifyContent={shouldHave2Columns ? 'flex-start' : 'space-between'}
-				>
+					>
 					<HStack>
 						<FaBed />
 						<Text>{house.bedrooms}</Text>

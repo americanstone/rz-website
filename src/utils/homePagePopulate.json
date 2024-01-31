@@ -3,11 +3,11 @@
         "id": 1,
         "attributes": {
             "heroText": "We do electrical work in and around Los Angeles, California.",
-            "primaryCallToActionButtonText": "Let's Discuss Your Dream Home",
+            "primaryCallToActionButtonText": "Let's Discuss Your Project",
             "primaryCallToActionButtonLink": "/contact",
             "secondaryCallToActionButtonText": "About Us",
             "secondaryCallToActionButtonLink": "/about",
-            "pageBody": "<h1>Your Electrician</h1><p>The RZ family has been Electrician in and around  Los Angeles for <strong>over 10 years</strong>. When you build with us, you get service and quality you can trust.</p><p>We specialize in single-story living, and building homes above and beyond the building code <i><strong>on your lot or on one of ours</strong></i> at a price that fits your budget.</p><p><strong>Give us a call or send us a message today!</strong></p>",
+            "pageBody": "<h1>Your local electrician</h1><p>The RZ family has been Electrician in and around  Los Angeles for <strong>over 10 years</strong>. When you build with us, you get service and quality you can trust.</p><p> Contact us today to learn more about our services and how we can help you with your next electrical project <i><strong>on your lot or on one of ours</strong></i> at a price that fits your budget.</p><p><strong>Give us a call or send us a message today!</strong></p>",
             "contactFormHeading": "Request a Free Consultation",
             "featuredTestimonialsHeading": "See what our customers are saying",
             "createdAt": "2023-01-05T17:14:38.332Z",
@@ -97,9 +97,9 @@
                     {
                         "id": 1,
                         "attributes": {
-                            "text": "We are very pleased with our experience working with Williams Custom Homes. Everyone is very nice to work with and no question is too trivial. We were always able to contact someone when we had a question and generally had an answer within 1-2 days. Overall they are a very professional team and have provided us with a WONDERFUL new home. I would recommend them to anyone!!",
+                            "text": "We are very pleased with our experience working with RZ . Everyone is very nice to work with and no question is too trivial. We were always able to contact someone when we had a question and generally had an answer within 1-2 days. Overall they are a very professional team and have provided us with a WONDERFUL new home. I would recommend them to anyone!!",
                             "name": "Jo Anne & Doug D.",
-                            "location": "Massillon, OH",
+                            "location": "Massillon, LA",
                             "order": 100,
                             "createdAt": "2023-01-05T22:02:42.344Z",
                             "updatedAt": "2023-01-05T22:02:52.061Z",

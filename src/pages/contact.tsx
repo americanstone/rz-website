@@ -28,6 +28,7 @@ const ContactUsPage = ({ contactPage, siteInfo }: Props) => {
 			/>
 			<Layout siteInfo={siteInfo}>
 				<Container>
+
 					<Stack direction={['column', 'row']} mt={[0, '2rem']} mb={'3rem'}>
 						<Box width={['full', '50%']} mr={[0, '4rem']}>
 							<CmsRichText text={contactPage.pageBody} siteInfo={siteInfo} />
@@ -37,7 +38,7 @@ const ContactUsPage = ({ contactPage, siteInfo }: Props) => {
 							<ContactForm siteInfo={siteInfo} />
 						</Box>
 					</Stack>
-				</Container>
+				</Container>		
 			</Layout>
 		</>
 	)

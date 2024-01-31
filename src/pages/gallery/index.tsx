@@ -31,6 +31,7 @@ const Gallery = ({ galleryPage, houses, siteInfo }: Props) => {
 			/>
 			<Layout siteInfo={siteInfo}>
 				<Container>
+				<a href='https://photos.app.goo.gl/T1WomxEBrRTs7brWA'>More Photos</a>
 					<Box mb={'2rem'}>
 						<CmsRichText text={galleryPage.pageBody} siteInfo={siteInfo} />
 					</Box>
@@ -39,8 +40,7 @@ const Gallery = ({ galleryPage, houses, siteInfo }: Props) => {
 						columns={[shouldHave2Columns ? 2 : 1, 2, 3]}
 						spacing={'2rem'}
 						overflow={'visible'}
-						mb={'3rem'}
-					>
+						mb={'3rem'}>
 						{houses.map((house, index) => (
 							<HouseCard key={index} house={house} />
 						))}

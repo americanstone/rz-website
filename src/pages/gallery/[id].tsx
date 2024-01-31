@@ -32,7 +32,7 @@ const HouseDetails = ({ house, siteInfo }: Props) => {
 
 	// include house thumbnail as 1st photo in carousel
 	const photos = house.photos?.data ? [house.thumbnail.data, ...house.photos.data] : [house.thumbnail.data]
-
+	console.log(photos)
 	return <>
 		<SEO
 			seo={{
