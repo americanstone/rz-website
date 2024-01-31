@@ -11,6 +11,7 @@ import ContactForm from '../components/ContactForm'
 import Phone from '../components/Phone'
 import TestimonialCard from '../components/TestimonialCard'
 import SEO from '../components/SEO'
+import QR from "../components/QR";
 
 type Props = {
 	homePage: HomePageType
@@ -28,6 +29,7 @@ const HomePage = ({ homePage, siteInfo }: Props) => {
 						<Box width={['full', '55%']} mt={'3rem'} mr={[0, '4rem']}>
 							<CmsRichText text={homePage.pageBody} siteInfo={siteInfo} />
 							<Phone siteInfo={siteInfo} />
+							<QR/>
 						</Box>
 						<Box width={['full', '45%']}>
 							<ContactForm
