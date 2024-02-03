@@ -1,6 +1,6 @@
 import { Box } from '@chakra-ui/react'
 import CmsMediaData from '../types/cmsMediaData'
-import { Navigation, Pagination, EffectCoverflow } from 'swiper'
+import { Navigation, Pagination, EffectCoverflow } from 'swiper/modules'
 import { Swiper, SwiperSlide } from 'swiper/react'
 import 'swiper/css'
 import 'swiper/css/navigation'
