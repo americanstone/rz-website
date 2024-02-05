@@ -50,8 +50,8 @@
                 "updatedAt": "2023-03-16T02:03:01.377Z",
                 "publishedAt": "2023-03-14T16:18:18.144Z",
                 "fullBathrooms": 2,
-                "title": "1,583 SF Cottage-Style Ranch",
-                "description": "<p>Split bedroom plan with first floor laundry - open floor plan. Also available as a 1,407 SF plan.</p>",
+                "title": "JD Logistics Inc",
+                "description": "<p>3 big warehouses. housesThumbnail.json</p>",
                 "virtualTourLink": null,
                 "thumbnail": {
                     "data": {
@@ -63,17 +63,6 @@
                             "width": 1632,
                             "height": 1224,
                             "formats": {
-                                "large": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_0146.JPG-b40fcc2c316aedafa83f0345e2e6151b.JPG",
-                                    "hash": "b40fcc2c316aedafa83f0345e2e6151b",
-                                    "mime": "image/jpeg",
-                                    "name": "large_IMG_0146.JPG",
-                                    "path": null,
-                                    "size": 147.51,
-                                    "width": 1000,
-                                    "height": 750
-                                },
                                 "small": {
                                     "ext": ".JPG",
                                     "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_0146.JPG-45eff051239d3f2ee5969a9cee9856c7.JPG",
@@ -84,51 +73,8 @@
                                     "size": 40,
                                     "width": 500,
                                     "height": 375
-                                },
-                                "medium": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_0146.JPG-920cb5798a64220cb0ce635b5af7adbb.JPG",
-                                    "hash": "920cb5798a64220cb0ce635b5af7adbb",
-                                    "mime": "image/jpeg",
-                                    "name": "medium_IMG_0146.JPG",
-                                    "path": null,
-                                    "size": 86.62,
-                                    "width": 750,
-                                    "height": 563
-                                },
-                                "xsmall": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_0146.JPG-309264683748a07949d0a3eeea05ca71.JPG",
-                                    "hash": "309264683748a07949d0a3eeea05ca71",
-                                    "mime": "image/jpeg",
-                                    "name": "xsmall_IMG_0146.JPG",
-                                    "path": null,
-                                    "size": 1.27,
-                                    "width": 64,
-                                    "height": 48
-                                },
-                                "thumbnail": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_0146.JPG-6df7183864ffc2b66a8edc2d977005d2.JPG",
-                                    "hash": "6df7183864ffc2b66a8edc2d977005d2",
-                                    "mime": "image/jpeg",
-                                    "name": "thumbnail_IMG_0146.JPG",
-                                    "path": null,
-                                    "size": 8.5,
-                                    "width": 208,
-                                    "height": 156
                                 }
-                            },
-                            "hash": "fd9c36a7ca9f9a83862c72ced39862d4",
-                            "ext": ".JPG",
-                            "mime": "image/jpeg",
-                            "size": 361.02,
-                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_0146.JPG-fd9c36a7ca9f9a83862c72ced39862d4.JPG",
-                            "previewUrl": null,
-                            "provider": "strapi-provider-upload-supabase",
-                            "provider_metadata": null,
-                            "createdAt": "2023-03-14T16:16:17.460Z",
-                            "updatedAt": "2023-03-14T16:16:17.460Z"
+                            }
                         }
                     }
                 }

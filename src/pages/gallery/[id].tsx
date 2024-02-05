@@ -92,52 +92,6 @@ const HouseDetails = ({ house, siteInfo }: Props) => {
 							</Text>
 						</HStack>
 					</VStack>
-
-
-					{house.floorPlan.data || house.virtualTourLink ?
-						<VStack
-							lineHeight={'1.15'}
-							spacing={'0.75rem'}
-							alignItems={'flex-start'}
-						>
-							{house.floorPlan.data ?
-								(
-									<Link href={house.floorPlan.data.attributes.url} passHref legacyBehavior>
-										<Button
-											as={'a'}
-											target={'_blank'}
-											variant='link'
-											leftIcon={<FaFilePdf />}
-											color={'brand'}
-											fontSize={fontSize}
-										>
-											Floor Plan
-										</Button>
-									</Link>
-								)
-								: null
-							}
-
-							{/* {house.virtualTourLink ?
-								(
-									<Link href={house.virtualTourLink} passHref legacyBehavior>
-										<Button
-											as={'a'}
-											target={'_blank'}
-											variant='link'
-											leftIcon={<FaMapMarkerAlt />}
-											color={'brand'}
-											fontSize={fontSize}
-										>
-											Virtual Tour
-										</Button>
-									</Link>
-								)
-								: null
-							} */}
-						</VStack>
-						: null}
-
 				</Stack>
 
 				<Box mb={'3rem'}>
