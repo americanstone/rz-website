@@ -25,7 +25,7 @@
                             "formats": {
                                 "small": {
                                     "ext": ".jpg",
-                                    "url": "images/project3/IMG_6276.png",
+                                    "url": "images/housePanels/IMG_6276.png",
                                     "hash": "893feaa83427c36d741a465bf16201e2",
                                     "mime": "image/jpeg",
                                     "name": "small_1700-front.jpg",
@@ -50,7 +50,7 @@
                 "updatedAt": "2023-03-16T02:03:01.377Z",
                 "publishedAt": "2023-03-14T16:18:18.144Z",
                 "fullBathrooms": 2,
-                "title": "JD Logistics Inc",
+                "title": "JD Logistics Inc - warehouse",
                 "description": "<p>3 big warehouses. housesThumbnail.json</p>",
                 "virtualTourLink": null,
                 "thumbnail": {
@@ -65,8 +65,7 @@
                             "formats": {
                                 "small": {
                                     "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_0146.JPG-45eff051239d3f2ee5969a9cee9856c7.JPG",
-                                    "hash": "45eff051239d3f2ee5969a9cee9856c7",
+                                    "url": "images/JDL/1.jpg",
                                     "mime": "image/jpeg",
                                     "name": "small_IMG_0146.JPG",
                                     "path": null,
@@ -103,17 +102,7 @@
                             "width": 5184,
                             "height": 3456,
                             "formats": {
-                                "large": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_IMG_1450.JPG-1f2eaae805fdaab740421b4a4fcd97b3.JPG",
-                                    "hash": "1f2eaae805fdaab740421b4a4fcd97b3",
-                                    "mime": "image/jpeg",
-                                    "name": "large_IMG_1450.JPG",
-                                    "path": null,
-                                    "size": 93.01,
-                                    "width": 1000,
-                                    "height": 667
-                                },
+
                                 "small": {
                                     "ext": ".JPG",
                                     "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_IMG_1450.JPG-8c3efa7fe6972fc9b577f83b63dd8d0c.JPG",
@@ -124,62 +113,8 @@
                                     "size": 27.25,
                                     "width": 500,
                                     "height": 333
-                                },
-                                "medium": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_IMG_1450.JPG-bde0d742c24b7e74113c4f401ed100a5.JPG",
-                                    "hash": "bde0d742c24b7e74113c4f401ed100a5",
-                                    "mime": "image/jpeg",
-                                    "name": "medium_IMG_1450.JPG",
-                                    "path": null,
-                                    "size": 56.82,
-                                    "width": 750,
-                                    "height": 500
-                                },
-                                "xlarge": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_IMG_1450.JPG-56cf2f9795ee8186c6121de9c8bab24e.JPG",
-                                    "hash": "56cf2f9795ee8186c6121de9c8bab24e",
-                                    "mime": "image/jpeg",
-                                    "name": "xlarge_IMG_1450.JPG",
-                                    "path": null,
-                                    "size": 292.18,
-                                    "width": 1920,
-                                    "height": 1280
-                                },
-                                "xsmall": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_IMG_1450.JPG-67b2cc482979667acf8e0be7a5c49160.JPG",
-                                    "hash": "67b2cc482979667acf8e0be7a5c49160",
-                                    "mime": "image/jpeg",
-                                    "name": "xsmall_IMG_1450.JPG",
-                                    "path": null,
-                                    "size": 1.17,
-                                    "width": 64,
-                                    "height": 43
-                                },
-                                "thumbnail": {
-                                    "ext": ".JPG",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_IMG_1450.JPG-56c479f1efa759ca732fcbed7a646bb3.JPG",
-                                    "hash": "56c479f1efa759ca732fcbed7a646bb3",
-                                    "mime": "image/jpeg",
-                                    "name": "thumbnail_IMG_1450.JPG",
-                                    "path": null,
-                                    "size": 7.72,
-                                    "width": 234,
-                                    "height": 156
                                 }
-                            },
-                            "hash": "0d72a4b3f27231f9236b80a9d5cfce12",
-                            "ext": ".JPG",
-                            "mime": "image/jpeg",
-                            "size": 1506.05,
-                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/IMG_1450.JPG-0d72a4b3f27231f9236b80a9d5cfce12.JPG",
-                            "previewUrl": null,
-                            "provider": "strapi-provider-upload-supabase",
-                            "provider_metadata": null,
-                            "createdAt": "2023-03-14T16:02:56.172Z",
-                            "updatedAt": "2023-03-14T16:04:46.573Z"
+                            }
                         }
                     }
                 }
@@ -188,14 +123,14 @@
         {
             "id": 1,
             "attributes": {
-                "bedrooms": 3,
-                "halfBathrooms": 0,
-                "squareFeet": 1549,
+                "bedrooms": 5,
+                "halfBathrooms": 3,
+                "squareFeet": 5000,
                 "createdAt": "2023-01-05T22:01:54.912Z",
                 "updatedAt": "2023-03-16T03:33:15.326Z",
                 "publishedAt": "2023-01-05T22:01:58.967Z",
-                "fullBathrooms": 2,
-                "title": "1,549 SF Split Bedroom Ranch Home with Covered Back Porch",
+                "fullBathrooms": 4,
+                "title": "Luxurious house wiring, panels and lighting",
                 "description": "",
                 "virtualTourLink": "https://www.zillow.com/view-3d-home/2878285e-a787-4254-bb19-923ca833f689",
                 "thumbnail": {
@@ -208,20 +143,9 @@
                             "width": 1024,
                             "height": 768,
                             "formats": {
-                                "large": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_site-image.jpg-412d1f888081fbd796df74a42b039f45.jpg",
-                                    "hash": "412d1f888081fbd796df74a42b039f45",
-                                    "mime": "image/jpeg",
-                                    "name": "large_site-image.jpg",
-                                    "path": null,
-                                    "size": 109.11,
-                                    "width": 1000,
-                                    "height": 750
-                                },
                                 "small": {
                                     "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_site-image.jpg-76955dd8781b279315a3d933e11b68e2.jpg",
+                                    "url": "images/luxuriousHouse/1.jpg",
                                     "hash": "76955dd8781b279315a3d933e11b68e2",
                                     "mime": "image/jpeg",
                                     "name": "small_site-image.jpg",
@@ -229,51 +153,8 @@
                                     "size": 32.27,
                                     "width": 500,
                                     "height": 375
-                                },
-                                "medium": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_site-image.jpg-e88b4a486fe8c638aab0ef51c6c82625.jpg",
-                                    "hash": "e88b4a486fe8c638aab0ef51c6c82625",
-                                    "mime": "image/jpeg",
-                                    "name": "medium_site-image.jpg",
-                                    "path": null,
-                                    "size": 67.31,
-                                    "width": 750,
-                                    "height": 563
-                                },
-                                "xsmall": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_site-image.jpg-aa98ee58eb7238dcdad29f40b5152a71.jpg",
-                                    "hash": "aa98ee58eb7238dcdad29f40b5152a71",
-                                    "mime": "image/jpeg",
-                                    "name": "xsmall_site-image.jpg",
-                                    "path": null,
-                                    "size": 1.19,
-                                    "width": 64,
-                                    "height": 48
-                                },
-                                "thumbnail": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_site-image.jpg-63ca990efec94b34b4f78ae742a7cfcc.jpg",
-                                    "hash": "63ca990efec94b34b4f78ae742a7cfcc",
-                                    "mime": "image/jpeg",
-                                    "name": "thumbnail_site-image.jpg",
-                                    "path": null,
-                                    "size": 6.69,
-                                    "width": 208,
-                                    "height": 156
                                 }
-                            },
-                            "hash": "daf732184977b3d8cc70db4497af24ec",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "size": 99.5,
-                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/site-image.jpg-daf732184977b3d8cc70db4497af24ec.jpg",
-                            "previewUrl": null,
-                            "provider": "strapi-provider-upload-supabase",
-                            "provider_metadata": null,
-                            "createdAt": "2023-01-15T22:41:44.025Z",
-                            "updatedAt": "2023-01-15T22:41:44.025Z"
+                            }
                         }
                     }
                 }
@@ -302,17 +183,6 @@
                             "width": 6958,
                             "height": 4639,
                             "formats": {
-                                "large": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_1568-front.jpg-a3f931825a6f3373eafc24bb73161fee.jpg",
-                                    "hash": "a3f931825a6f3373eafc24bb73161fee",
-                                    "mime": "image/jpeg",
-                                    "name": "large_1568-front.jpg",
-                                    "path": null,
-                                    "size": 128.97,
-                                    "width": 1000,
-                                    "height": 666
-                                },
                                 "small": {
                                     "ext": ".jpg",
                                     "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_1568-front.jpg-dd6de16713861208b1bae7be89052ceb.jpg",
@@ -323,62 +193,8 @@
                                     "size": 34.52,
                                     "width": 500,
                                     "height": 333
-                                },
-                                "medium": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_1568-front.jpg-7e1068e4fb1a9f4ce43cb763dfbea99b.jpg",
-                                    "hash": "7e1068e4fb1a9f4ce43cb763dfbea99b",
-                                    "mime": "image/jpeg",
-                                    "name": "medium_1568-front.jpg",
-                                    "path": null,
-                                    "size": 72.96,
-                                    "width": 750,
-                                    "height": 500
-                                },
-                                "xlarge": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_1568-front.jpg-8f1978898994fdb07e94ad20f488cf25.jpg",
-                                    "hash": "8f1978898994fdb07e94ad20f488cf25",
-                                    "mime": "image/jpeg",
-                                    "name": "xlarge_1568-front.jpg",
-                                    "path": null,
-                                    "size": 459.85,
-                                    "width": 1920,
-                                    "height": 1280
-                                },
-                                "xsmall": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_1568-front.jpg-96e3d597b4ebdc126a9b2039594bcb63.jpg",
-                                    "hash": "96e3d597b4ebdc126a9b2039594bcb63",
-                                    "mime": "image/jpeg",
-                                    "name": "xsmall_1568-front.jpg",
-                                    "path": null,
-                                    "size": 1.25,
-                                    "width": 64,
-                                    "height": 43
-                                },
-                                "thumbnail": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_1568-front.jpg-6a59b0756e03fae2b3984400f2df35d1.jpg",
-                                    "hash": "6a59b0756e03fae2b3984400f2df35d1",
-                                    "mime": "image/jpeg",
-                                    "name": "thumbnail_1568-front.jpg",
-                                    "path": null,
-                                    "size": 9.31,
-                                    "width": 234,
-                                    "height": 156
                                 }
-                            },
-                            "hash": "de7a682a06c5bd161959240ff2d45733",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "size": 3438.36,
-                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/1568-front.jpg-de7a682a06c5bd161959240ff2d45733.jpg",
-                            "previewUrl": null,
-                            "provider": "strapi-provider-upload-supabase",
-                            "provider_metadata": null,
-                            "createdAt": "2023-03-12T01:54:44.694Z",
-                            "updatedAt": "2023-03-12T01:54:44.694Z"
+                            }
                         }
                     }
                 }
@@ -407,17 +223,6 @@
                             "width": 7008,
                             "height": 4672,
                             "formats": {
-                                "large": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_DSC08392-Edit.jpg-476ed4349d17c91036c3525c3ca439c8.jpg",
-                                    "hash": "476ed4349d17c91036c3525c3ca439c8",
-                                    "mime": "image/jpeg",
-                                    "name": "large_DSC08392-Edit.jpg",
-                                    "path": null,
-                                    "size": 134.13,
-                                    "width": 1000,
-                                    "height": 667
-                                },
                                 "small": {
                                     "ext": ".jpg",
                                     "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_DSC08392-Edit.jpg-a25307e0c91a146311d209d066075d40.jpg",
@@ -428,62 +233,8 @@
                                     "size": 35.74,
                                     "width": 500,
                                     "height": 333
-                                },
-                                "medium": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_DSC08392-Edit.jpg-f8b72199b74bfdd1d3be8890ed969271.jpg",
-                                    "hash": "f8b72199b74bfdd1d3be8890ed969271",
-                                    "mime": "image/jpeg",
-                                    "name": "medium_DSC08392-Edit.jpg",
-                                    "path": null,
-                                    "size": 75.88,
-                                    "width": 750,
-                                    "height": 500
-                                },
-                                "xlarge": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_DSC08392-Edit.jpg-c54c56f94bebceba9c2adda6e05138ae.jpg",
-                                    "hash": "c54c56f94bebceba9c2adda6e05138ae",
-                                    "mime": "image/jpeg",
-                                    "name": "xlarge_DSC08392-Edit.jpg",
-                                    "path": null,
-                                    "size": 476.17,
-                                    "width": 1920,
-                                    "height": 1280
-                                },
-                                "xsmall": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_DSC08392-Edit.jpg-868b9a2345ad9b4b530dbf75f97e9d55.jpg",
-                                    "hash": "868b9a2345ad9b4b530dbf75f97e9d55",
-                                    "mime": "image/jpeg",
-                                    "name": "xsmall_DSC08392-Edit.jpg",
-                                    "path": null,
-                                    "size": 1.15,
-                                    "width": 64,
-                                    "height": 43
-                                },
-                                "thumbnail": {
-                                    "ext": ".jpg",
-                                    "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_DSC08392-Edit.jpg-bf474278688acaae9383f3928b969789.jpg",
-                                    "hash": "bf474278688acaae9383f3928b969789",
-                                    "mime": "image/jpeg",
-                                    "name": "thumbnail_DSC08392-Edit.jpg",
-                                    "path": null,
-                                    "size": 9.38,
-                                    "width": 234,
-                                    "height": 156
                                 }
-                            },
-                            "hash": "05e87cd538f005928f0d7ed0f5c1d2a4",
-                            "ext": ".jpg",
-                            "mime": "image/jpeg",
-                            "size": 3761.41,
-                            "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/DSC08392-Edit.jpg-05e87cd538f005928f0d7ed0f5c1d2a4.jpg",
-                            "previewUrl": null,
-                            "provider": "strapi-provider-upload-supabase",
-                            "provider_metadata": null,
-                            "createdAt": "2023-03-16T12:59:49.900Z",
-                            "updatedAt": "2023-03-16T12:59:49.900Z"
+                            }
                         }
                     }
                 }
