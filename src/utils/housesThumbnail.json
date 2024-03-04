@@ -25,7 +25,7 @@
                             "formats": {
                                 "small": {
                                     "ext": ".jpg",
-                                    "url": "images/housePanels/IMG_6276.png",
+                                    "url": "/images/housePanels/IMG_6276.png",
                                     "hash": "893feaa83427c36d741a465bf16201e2",
                                     "mime": "image/jpeg",
                                     "name": "small_1700-front.jpg",

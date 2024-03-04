@@ -99,20 +99,20 @@
             ],
             "globalSeo": {
                 "id": 1,
-                "title": "Williams Custom Homes - Stark County New Home Construction & Home Builder - Canton, Massillon, Ohio",
-                "description": "Williams Custom Homes is a Stark County, Ohio, Massillon, Canton area custom home builder."
+                "title": "",
+                "description": ""
             },
             "headshot": {
                 "data": {
                     "id": 29,
                     "attributes": {
-                        "name": "john.jpg",
-                        "alternativeText": "John Williams",
+                        "name": "David.jpg",
+                        "alternativeText": "David Zhang",
                         "caption": null,
                         "width": 2289,
                         "height": 1831,
                         "formats": {
-                            "large": {
+                            "small": {
                                 "ext": ".jpg",
                                 "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_john.jpg-235a5b602da39bfa77c423d4895f1371.jpg",
                                 "hash": "235a5b602da39bfa77c423d4895f1371",
@@ -122,73 +122,7 @@
                                 "size": 110.3,
                                 "width": 1000,
                                 "height": 800
-                            },
-                            "small": {
-                                "ext": ".jpg",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_john.jpg-eb158d0a59d5c6dbb1230d29656953a2.jpg",
-                                "hash": "eb158d0a59d5c6dbb1230d29656953a2",
-                                "mime": "image/jpeg",
-                                "name": "small_john.jpg",
-                                "path": null,
-                                "size": 19.59,
-                                "width": 500,
-                                "height": 400
-                            },
-                            "medium": {
-                                "ext": ".jpg",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_john.jpg-e61a19769972dea78a15cc48d7f68f22.jpg",
-                                "hash": "e61a19769972dea78a15cc48d7f68f22",
-                                "mime": "image/jpeg",
-                                "name": "medium_john.jpg",
-                                "path": null,
-                                "size": 52.57,
-                                "width": 750,
-                                "height": 600
-                            },
-                            "xlarge": {
-                                "ext": ".jpg",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xlarge_john.jpg-d7938135e4895a11872fc0ff5dbae0db.jpg",
-                                "hash": "d7938135e4895a11872fc0ff5dbae0db",
-                                "mime": "image/jpeg",
-                                "name": "xlarge_john.jpg",
-                                "path": null,
-                                "size": 481.75,
-                                "width": 1920,
-                                "height": 1536
-                            },
-                            "xsmall": {
-                                "ext": ".jpg",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_john.jpg-eb9b1a9b2df69f320c05b64a990f1277.jpg",
-                                "hash": "eb9b1a9b2df69f320c05b64a990f1277",
-                                "mime": "image/jpeg",
-                                "name": "xsmall_john.jpg",
-                                "path": null,
-                                "size": 0.91,
-                                "width": 64,
-                                "height": 51
-                            },
-                            "thumbnail": {
-                                "ext": ".jpg",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_john.jpg-25bbe75f726d0f42b80491a5c4e086a1.jpg",
-                                "hash": "25bbe75f726d0f42b80491a5c4e086a1",
-                                "mime": "image/jpeg",
-                                "name": "thumbnail_john.jpg",
-                                "path": null,
-                                "size": 3.8,
-                                "width": 196,
-                                "height": 156
-                            }
-                        },
-                        "hash": "9cfa927d878d17ec99b1f228a73c9b94",
-                        "ext": ".jpg",
-                        "mime": "image/jpeg",
-                        "size": 719.76,
-                        "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/john.jpg-9cfa927d878d17ec99b1f228a73c9b94.jpg",
-                        "previewUrl": null,
-                        "provider": "strapi-provider-upload-supabase",
-                        "provider_metadata": null,
-                        "createdAt": "2023-03-12T21:19:04.898Z",
-                        "updatedAt": "2023-03-12T21:43:45.917Z"
+                            }}
                     }
                 }
             },
@@ -196,23 +130,12 @@
                 "data": {
                     "id": 21,
                     "attributes": {
-                        "name": "REMAX CMN White Logo.png",
+                        "name": "Logo.png",
                         "alternativeText": "RE/MAX",
                         "caption": null,
                         "width": 1181,
                         "height": 1180,
                         "formats": {
-                            "large": {
-                                "ext": ".png",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/large_2021-CMN_REMAX_vert_white_RGB.png-6e1245587f8466437132e9013b7817fb.png",
-                                "hash": "6e1245587f8466437132e9013b7817fb",
-                                "mime": "image/png",
-                                "name": "large_2021-CMN_REMAX_vert_white_RGB.png",
-                                "path": null,
-                                "size": 131.84,
-                                "width": 1000,
-                                "height": 999
-                            },
                             "small": {
                                 "ext": ".png",
                                 "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/small_2021-CMN_REMAX_vert_white_RGB.png-66b08044d47f2b35d3a6fdb49c17266c.png",
@@ -223,51 +146,7 @@
                                 "size": 58.15,
                                 "width": 500,
                                 "height": 500
-                            },
-                            "medium": {
-                                "ext": ".png",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/medium_2021-CMN_REMAX_vert_white_RGB.png-18cf9720bb114227a572a33a9dd06366.png",
-                                "hash": "18cf9720bb114227a572a33a9dd06366",
-                                "mime": "image/png",
-                                "name": "medium_2021-CMN_REMAX_vert_white_RGB.png",
-                                "path": null,
-                                "size": 94.29,
-                                "width": 750,
-                                "height": 749
-                            },
-                            "xsmall": {
-                                "ext": ".png",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/xsmall_2021-CMN_REMAX_vert_white_RGB.png-5fccf4084f338f65502411d6a56b6966.png",
-                                "hash": "5fccf4084f338f65502411d6a56b6966",
-                                "mime": "image/png",
-                                "name": "xsmall_2021-CMN_REMAX_vert_white_RGB.png",
-                                "path": null,
-                                "size": 3.66,
-                                "width": 64,
-                                "height": 64
-                            },
-                            "thumbnail": {
-                                "ext": ".png",
-                                "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/thumbnail_2021-CMN_REMAX_vert_white_RGB.png-bb23322d73df12df4fd3c4b4646ff714.png",
-                                "hash": "bb23322d73df12df4fd3c4b4646ff714",
-                                "mime": "image/png",
-                                "name": "thumbnail_2021-CMN_REMAX_vert_white_RGB.png",
-                                "path": null,
-                                "size": 12.59,
-                                "width": 156,
-                                "height": 156
-                            }
-                        },
-                        "hash": "8577cd0f38f136b1fce011db0d6d115c",
-                        "ext": ".png",
-                        "mime": "image/png",
-                        "size": 24.46,
-                        "url": "https://cwaprwdhthpkldgwaysx.supabase.co/storage/v1/object/public/strapi-uploads/2021-CMN_REMAX_vert_white_RGB.png-8577cd0f38f136b1fce011db0d6d115c.png",
-                        "previewUrl": null,
-                        "provider": "strapi-provider-upload-supabase",
-                        "provider_metadata": null,
-                        "createdAt": "2023-03-12T02:45:36.718Z",
-                        "updatedAt": "2023-03-12T21:19:55.325Z"
+                            }}
                     }
                 }
             }

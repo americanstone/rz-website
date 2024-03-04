@@ -1,6 +1,6 @@
 import SiteInformation from '../types/CmsSingleTypes/siteInformation'
 import { populateShortCodes } from '../utils/pipes'
-import parse, { Element, domToReact } from 'html-react-parser'
+import parse, {Element, domToReact, DOMNode} from 'html-react-parser'
 import { Box } from '@chakra-ui/react'
 import styles from '../styles/CmsRichText.module.scss'
 import Link from 'next/link'
@@ -31,7 +31,7 @@ const CmsRichText = ({ text, siteInfo }: Props) => (
 					return (
 						<Link href={url} passHref target={isExternalLink(url) ? '_blank' : undefined}>
 
-							{domToReact(domNode.children)}
+							{domToReact(domNode.children as DOMNode[])}
 
 						</Link>
 					)
